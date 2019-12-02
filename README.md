@@ -79,7 +79,6 @@
 希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/ijwoue2416/djy/blob/master/gb/rq.md?fldfijwoue2416#1">企业的前车之鉴</a>
 <hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
-<img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=szzd_www">
 <img src="https://raw.githubusercontent.com/ijwoue2416/www/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
 <br>
