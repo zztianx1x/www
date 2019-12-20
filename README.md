@@ -28,7 +28,6 @@
 <p><a target="_blank" href="https://github.com/nhrnni253/ntdtv/blob/master/gb/prog204_1.md?flntdtv#1">新唐人大陆新闻</a></p>
 <p><a target="_blank" href="https://github.com/nhrnni253/ntdtv/blob/master/gb/prog202_1.md?flntdtv#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/nhrnni253/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p>
-<p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?flntdtv&type=url14">世界各地新闻</a></p>
 <hr>
 <h1><p><strong>热门专题</strong></p></h1>
 <p><a target="_blank" href="https://github.com/nhrnni253/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
