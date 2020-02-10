@@ -10,9 +10,17 @@
 <p><strong>个别浏览器打不开或没显示图片，请刷新一下，推荐用海外浏览器打开本平台</strong></p>
 <p><strong><a href="https://github.com/liahn236/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/liahn236/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 
+<h1><p><strong>热门专题</strong></p></h1>
+<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/442749_1.md?flntdtv#1">武汉肺炎疫情</a></p>
+<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
+<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
+<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1138_1.md?flntdtv#1">中国时局</a></p>
+<p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/9p.md?flntdtv#1">九评共产党</a></p>
+<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p>
+<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p>
+<hr>
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
-<img src="https://gitlab.com/szzdlab/www/raw/master/t/sz.jpg"><br>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）</a></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
@@ -30,15 +38,7 @@
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog202_1.md?flntdtv#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">世界各地新闻</a></p>
-<hr>
-<h1><p><strong>热门专题</strong></p></h1>
-<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/442749_1.md?flntdtv#1">武汉肺炎疫情</a></p>
-<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
-<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
-<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1138_1.md?flntdtv#1">中国时局</a></p>
-<p><a target="_blank" href="https://github.com/liahn236/djy/blob/master/gb/9p.md?flntdtv#1">九评共产党</a></p>
-<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p>
-<p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p>
+
 
 
 <hr><h1><p>聚缘阁代理</p></h1>
