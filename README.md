@@ -20,7 +20,7 @@
 <p><a target="_blank" href="https://github.com/liahn236/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p>
 <hr>
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
-<p><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://raw.githuack.com/SzzdOgate/update/master/extras/SzzdOgate.apk">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）</a></p>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
