@@ -125,8 +125,9 @@
 <img src="https://raw.githubusercontent.com/rpmruk214/www/master/t/lh600.jpg"><br>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
 <details><summary><p>提示::pencil:</summary>
-本平台翻墙软件均为绿色免费的,绝对不含木马病毒，请放心下载。<br>
-在微信上，可点右上角三个点，选择浏览器下载，推荐用海外浏览器打开本平台。</details>
+本平台翻墙软件均绿色免费，且强度加密绝，使用安全，请放心下载。<br>
+在微信上，可点右上角三个点，选择浏览器下载，推荐用海外浏览器打开本平台。
+</details>
 
 <p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgate.apk?dfrpmruk214h">神州正道&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?dfrpmruk214h">神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
