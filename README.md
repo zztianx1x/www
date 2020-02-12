@@ -7,7 +7,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <div align="center">
-<img src="https://raw.githubusercontent.com/rpmruk214/www/master/t/www.jpg"><br>
+<a target="_blank" href="https://github.com/rpmruk214/djy/blob/master/gb/nsc413.md?dfrpmruk214h#1"><img src="https://raw.githubusercontent.com/rpmruk214/www/master/t/www.jpg"></a><br>
 <strong>个别浏览器打不开或没显示图片，请刷新一下，本平台固定短网址 <a href="https://git.io/*8">git.io/*8</a></strong></p>
 
 <h1><br><a target="_blank" href="https://github.com/rpmruk214/ntdtv/blob/master/gb/442749_1.md?dfrpmruk214h#1"><strong>真实肺炎疫情知多少?:fire:</strong></a><br><h1>
