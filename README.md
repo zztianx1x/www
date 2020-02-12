@@ -213,6 +213,5 @@
 <hr>
 <p><strong><a href="https://github.com/uyybp2181/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/uyybp2181/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a></strong></p>
 <h4>手机上长按并复制下列链接或二维码分享本文章：</h4>https://github.com/uyybp2181/www/blob/master/README.md#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/uyybp2181/www/blob/master/README.md%231" title="分享本文章"></img>
-
 </div
 
