@@ -10,7 +10,7 @@
 <a target="_blank" href="https://github.com/rpmruk214/djy/blob/master/gb/nsc413.md?dfrpmruk214h#1"><img src="https://raw.githubusercontent.com/rpmruk214/www/master/t/www.jpg"></a><br>
 <strong>个别浏览器打不开或没显示图片，请刷新一下。本平台短网址 <a href="https://git.io/*8">git.io/*8</a></strong></p>
 
-<h1><br><a target="_blank" href="https://github.com/rpmruk214/ntdtv/blob/master/gb/442749_1.md?dfrpmruk214h#1"><strong>真实肺炎疫情知多少----海外报道:fire:</strong></a><br><h1>
+<h1><br><a target="_blank" href="https://github.com/rpmruk214/ntdtv/blob/master/gb/442749_1.md?dfrpmruk214h#1"><strong>真实肺炎疫情知多少？----看海外报道！:fire:</strong></a><br><h1>
 <img src="https://raw.githubusercontent.com/rpmruk214/www/master/t/lh600.jpg"><br>
 
 <h1><p><strong>大纪元时报 新闻同步</strong></p></h1>
@@ -125,7 +125,7 @@
 <img src="https://raw.githubusercontent.com/rpmruk214/www/master/t/lh600.jpg"><br>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
 <details><summary><p>提示::pencil:</summary>
-本平台翻墙软件均绿色免费，且强度加密绝，使用安全，请放心下载。<br>
+本平台翻墙软件均绿色免费，且强度加密，使用安全，请放心下载。<br>
 在微信上，可点右上角三个点，选择浏览器下载，推荐用海外浏览器打开本平台。
 </details>
 
