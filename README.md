@@ -147,7 +147,7 @@
 
 
 <h1><p><strong>数点梅花天地春</strong></p></h1>
-<img src="https://user-images.githubusercontent.com/58833107/74517794-b8d0f700-4f4d-11ea-8070-40d711d96882.jpg">
+<img src="https://raw.githubusercontent.com/xgqfwa2071/www/master/t/01.jpg">
 <h1><strong><a href="https://git.io/fjHpJ" rel="nofollow">退出中共，远离罪恶，大瘟疫前的自救！点击这里</a></strong></h1><br>
 <br>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
