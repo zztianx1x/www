@@ -125,8 +125,7 @@
 <img src="https://raw.githubusercontent.com/vntxf2407/www/master/t/lh600.jpg"><br>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
 <details><summary><p>提示::pencil:</summary>
-翻墙软件能够一键破网，操作简单且绿色免费<br>
-本平台提供的均是：强度加密，使用安全的。<br>
+本平台提供的翻墙软件,一键破网，操作简单，绿色免费，强度加密，使用安全。<br>
 在微信上，需点右上角三个点，选浏览器下载。<br>
 </details>
 
