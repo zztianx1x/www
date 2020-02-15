@@ -124,7 +124,7 @@
 <p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?dfxgqfwa2071h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.zip?dfxgqfwa2071h">网门（电脑版）</a>
 </details>
-<p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/fgp.zip?dfxgqfwa2071h">自由门&nbsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/xgqfwa2071/www/szzd/fgp.zip?dfxgqfwa2071h">自由门&nbsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/iPPOTV.zip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
 <p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/u.zip?dfxgqfwa2071h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
