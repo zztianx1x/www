@@ -85,7 +85,7 @@
 </details>
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门新闻与视频&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a target="_blank" href="https://raw.githack.com/otiny/up/master/show001.htm">网页完整版</a></p>
+<p><a target="_blank" href="https://raw.githack.com/otiny/up/master/show003.htm">网页完整版</a></p>
 <p><a target="_blank" href="https://raw.githack.com/otiny/up/master/show002.htm">网页精简版</a></p>
 </details
 
