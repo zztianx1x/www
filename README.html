@@ -84,6 +84,24 @@
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/H港台新闻.md?t=02121122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;港台新闻</a></p>
 </details>
 </details>
+<p><details><summary><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/README.md">在线看明慧期刊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<details><summary>明慧期刊</summary>
+<br><p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/zhongguo.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;明慧周报</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/cangsheng.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天地苍生</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/hongfu.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天赐洪福</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/huabao.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;明慧画报</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/mingbai.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《明白》</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/zhenxiang.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《真相》</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/huisheng.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《慧声》</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/xiwang.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《希望》</a></p>
+</details>
+<details><summary>明慧特刊</summary>
+<br><p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/wfygdzz.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无法掩盖的罪证</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/425.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话说当年四二五</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/falsefire.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天安门世纪骗局</a></p>
+<p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/pages/1400zx.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1400例谎言背后</a></p>
+</details>
+</details>
 <p><details><summary><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门新闻与视频&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a target="_blank" href="https://raw.githack.com/otiny/up/master/show003.htm">网页完整版</a></p>
 <p><a target="_blank" href="https://raw.githack.com/otiny/up/master/show002.htm">网页精简版</a></p>
