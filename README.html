@@ -135,18 +135,18 @@
 在微信上，需点右上角三个点，选浏览器下载。<br>
 </details>
 
-<p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgate.apk?dfrgtkqo2398h">神州正道&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/szzdogate.rar?dfrgtkqo2398h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
-<p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?dfrgtkqo2398h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（电视机顶盒版）</a></p>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/SzzdOgate.apk?dfrgtkqo2398h">神州正道&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/szzdogate.rar?dfrgtkqo2398h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/SzzdOgateTV.apk?dfrgtkqo2398h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（电视机顶盒版）</a></p>
 </details>
-<p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?dfrgtkqo2398h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.zip?dfrgtkqo2398h">网门（电脑版）</a>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/oGate.apk?dfrgtkqo2398h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/oGate.zip?dfrgtkqo2398h">网门（电脑版）</a>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/fgp.zip?dfrgtkqo2398h">自由门&nbsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/iPPOTV.zip">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/iPPOTV.zip?dfrgtkqo2398h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
-<p><details><summary><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/u.zip?dfrgtkqo2398h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/um.apk?raw=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/u.zip?dfrgtkqo2398h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/rgtkqo2398/www/szzd/um.apk?dfrgtkqo2398h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
 
 <img src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/lh600.jpg"><br>
