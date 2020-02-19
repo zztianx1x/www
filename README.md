@@ -196,9 +196,7 @@
 <img src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/42.jpg"><br>
 <img src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/43.jpg"><br>
 <img src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/44.jpg"><br>
-<img ALIGN=left src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/2224dae6.jpg">
-<img ALIGN=left src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/2224dae6.jpg">
-<img ALIGN=left src="https://raw.githubusercontent.com/rgtkqo2398/www/master/t/2224dae6.jpg">
+
 <hr>
 <h1><p><strong>请参与这场民族自救运动</strong></p></h1>
 <p><strong>
