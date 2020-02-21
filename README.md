@@ -132,11 +132,11 @@
 在微信上，需点右上角三个点，选浏览器下载。<br>
 </details>
 
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/SzzdOgate.apk?dfjpwvgr227h">神州正道&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/SzzdOgate.apk?dfjpwvgr227h">神州正道（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/szzdogate.rar?dfjpwvgr227h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/SzzdOgateTV.apk?dfjpwvgr227h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（电视机顶盒版）</a></p>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/oGate.apk?dfjpwvgr227h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/oGate.apk?dfjpwvgr227h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/oGate.zip?dfjpwvgr227h">网门（电脑版）</a>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/fgp.zip?dfjpwvgr227h">自由门&nbsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
