@@ -84,7 +84,7 @@
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/H港台新闻.md?t=02121122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;港台新闻</a></p>
 </details>
 </details>
-<p><details><summary><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/README.md">在线看明慧期刊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><details><summary><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/README.md#1">在线看明慧期刊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <details><summary>明慧期刊</summary>
 <br><p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/zhongguo.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;明慧周报</a></p>
 <p><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/cangsheng.md">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天地苍生</a></p>
