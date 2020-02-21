@@ -139,7 +139,7 @@
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/oGate.apk?dfjpwvgr227h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/oGate.zip?dfjpwvgr227h">网门（电脑版）</a>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/fgp.zip?dfjpwvgr227h">自由门&nbsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/fgp.zip?dfjpwvgr227h">自由门&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/iPPOTV.zip?dfjpwvgr227h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/jpwvgr227/www/szzd/u.zip?dfjpwvgr227h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
