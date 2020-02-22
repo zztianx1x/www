@@ -8,7 +8,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc413.md?dfupuqsh2796h#1"><img src="https://raw.githubusercontent.com/upuqsh2796/www/master/t/www.jpg"></a><br>
 <p><details><summary><strong>个别浏览器打不开或没显示图片，请刷新一下......更多提示：:pencil:</summary><br>
-持续收看，请收藏网址到浏览器，同时<a href="#9">下载翻墙软件</a><br>
+持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a><br>
 翻墙软件能够帮助读者一键破网，操作简单。本平台提供的均绿色免费，强度加密，使用安全，请放心下载。<br>
 在微信上，如果打不开网页或无法下载软件，需点右上角三个点，选从浏览器打开或下载。<br>
 建议用海外浏览器打开本平台,短网址 <a href="https://git.io/*8">git.io/*8</a></strong><br></p>
@@ -17,16 +17,16 @@
 <img src="https://raw.githubusercontent.com/upuqsh2796/www/master/t/lh600.jpg"><br>
 
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc413.md?dfupuqsh2796h#1">大纪元大陆时事</a></p></summary>
+<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc413.md?dfupuqsh2796h#1">大纪元大陆时事</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/news392.md?dfupuqsh2796h#1">时事评论</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nscrw413.md?dfupuqsh2796h#1">新闻排行</a></p>
 </details>
-<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/n24hr.md?dfupuqsh2796h#1">大纪元全球热点</a></p></summary>
+<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/n24hr.md?dfupuqsh2796h#1">大纪元全球热点</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/news2008.md#1">生活消费</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncyule.md#1">娱乐休闲</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc1002.md#1">健康1+1</a></p>
 </details>
-<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/news2007.md?dfupuqsh2796h#1">大纪元传统文化</a></p></summary>
+<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/news2007.md?dfupuqsh2796h#1">大纪元传统文化</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><details><summary>文化百科</summary></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1982.md#1">文化博览</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1981.md#1">名胜古迹</a></p>
@@ -89,12 +89,12 @@
 </details>
 </details>
 
-<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog204_1.md?dfupuqsh2796h#1">新唐人大陆新闻</a></p></summary>
+<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog204_1.md?dfupuqsh2796h#1">新唐人大陆新闻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog207_1.md?dfupuqsh2796h#1">时事评论</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/headline-news_1.md?dfupuqsh2796h#1">头条要闻</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/editor-pickup_1.md?dfupuqsh2796h#1">编辑推荐</a></p>
 </details>
-<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog202_1.md?dfupuqsh2796h#1">新唐人国际新闻</a></p></summary>
+<p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog202_1.md?dfupuqsh2796h#1">新唐人国际新闻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog208_1.md#1">财经新闻</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog209_1.md#1">科教新闻</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/prog210_1.md#1">娱乐新闻</a></p>
