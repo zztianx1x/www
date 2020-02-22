@@ -7,7 +7,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <div align="center">
 <a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc413.md?dfupuqsh2796h#1"><img src="https://raw.githubusercontent.com/upuqsh2796/www/master/t/www.jpg"></a><br>
-<p><details><summary><strong>个别浏览器打不开或没显示图片，请刷新一下......更多提示：:pencil:</summary><br>
+<p><details><summary><strong>个别浏览器打不开或没显示图片，请刷新一下......更多提示：:pencil:</summary>
 持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a><br>
 翻墙软件能够帮助读者一键破网，操作简单。本平台提供的均绿色免费，强度加密，使用安全，请放心下载。<br>
 在微信上，如果打不开网页或无法下载软件，需点右上角三个点，选从浏览器打开或下载。<br>
@@ -24,68 +24,68 @@
 <p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/n24hr.md?dfupuqsh2796h#1">大纪元全球热点</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/news2008.md#1">生活消费</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncyule.md#1">娱乐休闲</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc1002.md#1">健康1+1</a></p>
+<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc1002.md#1">健康1+1&nbsp;</a></p>
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/news2007.md?dfupuqsh2796h#1">大纪元传统文化</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><details><summary>文化百科</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1982.md#1">文化博览</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1981.md#1">名胜古迹</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1185978.md#1">命理武术</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1185977.md#1">民俗文化</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1982.md#1">文化博览</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1981.md#1">名胜古迹</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1185978.md#1">命理武术</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1185977.md#1">民俗文化</a></p>
 </details>
 <p><details><summary>生命探索</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2005.md#1">生命之谜</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2000.md#1">前世今生</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1999.md#1">时空探索</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1996.md#1">人体修炼</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2005.md#1">生命之谜</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2000.md#1">前世今生</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1999.md#1">时空探索</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1996.md#1">人体修炼</a></p>
 </details>
 <p><details><summary>史海钩沉</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid238.md#1">中国历代名人</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2006.md#1">历史探源</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1190478.md#1">细说历史</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid238.md#1">历代名人</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2006.md#1">历史探源</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1190478.md#1">细说历史</a></p>
 </details>
 <p><details><summary>预言传奇</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid325.md#1">预言天象</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1998.md#1">文明探密</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1055.md#1">传奇传说</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid325.md#1">预言天象</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1998.md#1">文明探密</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1055.md#1">传奇传说</a></p>
 </details>
 <p><details><summary>文学世界</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid256.md#1">开卷有得</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid255.md#1">小说大观</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid254.md#1">散文随笔</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid253.md#1">诗词歌曲</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid256.md#1">开卷有得</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid255.md#1">小说大观</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid254.md#1">散文随笔</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid253.md#1">诗词歌曲</a></p>
 </details>
 <p><details><summary>人生感悟</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1096.md#1">心灵阳光</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1095.md#1">人间真情</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1093.md#1">感悟人生</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1096.md#1">心灵阳光</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1095.md#1">人间真情</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1093.md#1">感悟人生</a></p>
 </details>
 <p><details><summary>人物春秋</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid287.md#1">现代故事</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid286.md#1">缤纷人物</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid285.md#1">当代名人</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2012.md#1">经典名人</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid287.md#1">现代故事</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid286.md#1">缤纷人物</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid285.md#1">当代名人</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2012.md#1">经典名人</a></p>
 </details>
 <p><details><summary>文学赏析</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2360.md#1">书评书话</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2349.md#1">诗经鉴赏</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2292.md#1">名言锦句</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1088.md#1">唐诗鉴赏</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2360.md#1">书评书话</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2349.md#1">诗经鉴赏</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2292.md#1">名言锦句</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid1088.md#1">唐诗鉴赏</a></p>
 </details>
 <p><details><summary>艺海漫游 </summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid265.md#1">艺术生活</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid264.md#1">表演艺术</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid263.md#1">中西雅乐</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid262.md#1">美术长廊</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid265.md#1">艺术生活</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid264.md#1">表演艺术</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid263.md#1">中西雅乐</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid262.md#1">美术长廊</a></p>
 </details>
 <p><details><summary>教育园地</summary></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2380.md#1">学生园地</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid187.md#1">趣味活动</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid186.md#1">故事点播</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid185.md#1">走进校园</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid184.md#1">学习园地</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid183.md#1">家庭教育</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid182.md#1">教育动态</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid2380.md#1">学生园地</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid187.md#1">趣味活动</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid186.md#1">故事点播</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid185.md#1">走进校园</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid184.md#1">学习园地</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid183.md#1">家庭教育</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/ncid182.md#1">教育动态</a></p>
 </details>
 </details>
 
