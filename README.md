@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/dwfgyx2217/www/master/t/jt.gif">
 <h1><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/442749_1.md?dfdwfgyx2217h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
 <details><summary><p>大瘟疫前的自救！平台推荐文章：:pencil:</summary>
-《泪人迷》<br>
+歌词：泪人迷<br>
 莫等真相大显时，悔恨梦醒迟。<br>
 含泪慈悲告诉你，乱世莫执迷。<br>
 浮华人间是幻象，争来的带不去。<br>
