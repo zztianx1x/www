@@ -7,12 +7,10 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <div align="center">
 <a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/nsc413.md?dfupuqsh2796h#1"><img src="https://raw.githubusercontent.com/upuqsh2796/www/master/t/www.jpg"></a><br>
-<p><details><summary><strong>个别浏览器打不开或没显示图片，请刷新一下......更多提示：:pencil:</summary>
-持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a><br>
-翻墙软件能够帮助读者一键破网，操作简单。本平台提供的均绿色免费，强度加密，使用安全，请放心下载。<br>
-在微信上，如果打不开网页或无法下载软件，需点右上角三个点，选从浏览器打开或下载。<br>
-建议用海外浏览器打开本平台,短网址 <a href="https://git.io/*8">git.io/*8</a></strong><br></p>
-</details>
+<p><strong>个别浏览器打不开或没显示图片，请刷新一下。建议用海外浏览器打开本平台,短网址 <a href="https://git.io/*8">git.io/*8</a><br>
+持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a></strong><br></p>
+
+
 <h1><br><a target="_blank" href="https://github.com/upuqsh2796/ntdtv/blob/master/gb/442749_1.md?dfupuqsh2796h#1"><strong>肺炎疫情知多少----看海外真实报道:fire:</strong></a><br><h1>
 <img src="https://raw.githubusercontent.com/upuqsh2796/www/master/t/lh600.jpg"><br>
 
@@ -240,12 +238,12 @@
 <a id="user-content-禁闻网高速入口" class="anchor" href="#%E7%A6%81%E9%97%BB%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://zr.tzbf.gq/ban/haopo" rel="nofollow">禁闻网高速入口</a>
 </p>
 </details>
-
 <img src="https://raw.githubusercontent.com/upuqsh2796/www/master/t/lh600.jpg"><br>
+<a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
 <details><summary><p>提示::pencil:</summary>
 本平台的翻墙软件,一键破网，操作简单，绿色免费，强度加密，使用安全。<br>
-在微信上，需点右上角三个点，选浏览器下载。<br>
+在微信上，如果无法打开网页或下载软件，需点右上角三个点，选从浏览器打开或下载。推荐用海外浏览器。<br>
 </details>
 
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/SzzdOgate.apk?dfupuqsh2796h">神州正道（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
@@ -255,7 +253,7 @@
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/oGate.apk?dfupuqsh2796h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/oGate.zip?dfupuqsh2796h">网门（电脑版）</a>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/fgp.zip?dfupuqsh2796h">自由门&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/fgp.zip?dfupuqsh2796h">自由门&thinsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/iPPOTV.zip?dfupuqsh2796h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/upuqsh2796/www/szzd/u.zip?dfupuqsh2796h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
