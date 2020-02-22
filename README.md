@@ -11,7 +11,7 @@
 持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a></strong></p>
 
 <img src="https://raw.githubusercontent.com/dwfgyx2217/www/master/t/jt.gif">
-<h1><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/442749_1.md?dfdwfgyx2217h#1"><strong>肺炎疫情知多少----看海外真实报道:fire:</strong></a><br><h1>
+<p><p><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/442749_1.md?dfdwfgyx2217h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></p></p>
 <img src="https://raw.githubusercontent.com/dwfgyx2217/www/master/t/lh600.jpg"><br>
 
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
