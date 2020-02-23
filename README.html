@@ -48,8 +48,6 @@
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/news2008.md#1">生活消费</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncyule.md#1">娱乐休闲</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nsc1002.md#1">健康1+1&nbsp;</a></p>
-
-https://github.com/dwfgyx2217/djy/blob/master/gb/nf4786.md#1
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/news2007.md?dfdwfgyx2217h#1">大纪元传统文化</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><details><summary>文化百科</summary></p>
