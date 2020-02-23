@@ -13,14 +13,14 @@
 <img src="https://raw.githubusercontent.com/dwfgyx2217/www/master/t/jt.gif">
 <h1><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/442749_1.md?dfdwfgyx2217h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
 <details><summary><p><strong>大瘟疫前的自救！平台推荐文章：:pencil:</strong></summary></p>
-<a>歌词：泪人迷<br>
-----起航<br>
+<a><p>歌词：泪人迷</p></a>
+<p>----起航</p>
 莫等真相大显时，悔恨梦醒迟。<br>
 含泪慈悲告诉你，乱世莫执迷。<br>
 浮华人间是幻象，争来的带不去。<br>
 红魔祸乱本善失，欲壑连地狱。<br>
 洪传大法主来世，法徒是天使。<br>
-别等真相大显时，悔恨梦醒迟。<br><br></a>
+<a><p>别等真相大显时，悔恨梦醒迟。</p></a>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/11/n11861529.md#1">《刘伯温碑记》点明避开瘟疫的真言</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/7/n11852128.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
