@@ -123,6 +123,7 @@
 <p><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/prog210_1.md#1">娱乐新闻</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/prog211_1.md#1">体育新闻</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/culture-world_1.md#1">博览天下</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/prog205_1.md#1">香港新闻</a></p>
 </details>
 <img src="https://raw.githubusercontent.com/dwfgyx2217/www/master/t/lh600.jpg"><br>
 
