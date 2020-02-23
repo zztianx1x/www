@@ -14,15 +14,17 @@
 <h1><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/442749_1.md?dfdwfgyx2217h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
 <details><summary><p>大瘟疫前的自救！平台推荐文章：:pencil:</summary>
 歌词：泪人迷<br>
+----起航<br>
 莫等真相大显时，悔恨梦醒迟。<br>
 含泪慈悲告诉你，乱世莫执迷。<br>
 浮华人间是幻象，争来的带不去。<br>
 红魔祸乱本善失，欲壑连地狱。<br>
 洪传大法主来世，法徒是天使。<br>
 别等真相大显时，悔恨梦醒迟。<br><br>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/7/n11852128.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/11/n11861529.md#1">《刘伯温碑记》点明避开瘟疫的真言</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/11/n11861529.md#1">《刘伯温碑记》点明避开瘟疫的真言</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/7/n11852128.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/ntdtv/blob/master/gb/2020/02/10/a102773573.md#1">一个修行人对疫情的反思和避难之道</a></p>
 
 </details>
 <img src="https://raw.githubusercontent.com/dwfgyx2217/www/master/t/lh600.jpg"><br>
@@ -31,11 +33,23 @@
 <p><details><summary><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nsc413.md?dfdwfgyx2217h#1">大纪元大陆时事</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/news392.md?dfdwfgyx2217h#1">时事评论</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nscrw413.md?dfdwfgyx2217h#1">新闻排行</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nf6092.md#1"> 独家视角</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid278.md#1">中国人权</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid283.md#1">中国经济</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid277.md#1">大陆政治</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid282.md#1">社会万象</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid281.md#1">科教文化</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid2420.md#1">网闻禁闻</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid279.md#1">群体事件</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid280.md#1">天灾人祸</a></p>
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/n24hr.md?dfdwfgyx2217h#1">大纪元全球热点</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nf4786.md#1">神韵艺术</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/news2008.md#1">生活消费</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncyule.md#1">娱乐休闲</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nsc1002.md#1">健康1+1&nbsp;</a></p>
+
+https://github.com/dwfgyx2217/djy/blob/master/gb/nf4786.md#1
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/news2007.md?dfdwfgyx2217h#1">大纪元传统文化</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><details><summary>文化百科</summary></p>
