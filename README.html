@@ -46,7 +46,7 @@
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncid280.md#1">天灾人祸</a></p>
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/n24hr.md?dfdwfgyx2217h#1">大纪元全球热点</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nf4786.md#1">神韵艺术</a></p>
+<p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nf4786.md#1">神韵巡演</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/news2008.md#1">生活消费</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/ncyule.md#1">娱乐休闲</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/nsc1002.md#1">健康1+1&nbsp;</a></p>
