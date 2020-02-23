@@ -21,7 +21,7 @@
 <p>红魔祸乱本善失，欲壑连地狱。</p>
 <p>洪传大法主来世，法徒是天使。</p>
 <p>别等真相大显时，悔恨梦醒迟。</p>
-<p></p>
+<br>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/11/n11861529.md#1">《刘伯温碑记》点明避开瘟疫的真言</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/7/n11852128.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
 <p><a target="_blank" href="https://github.com/dwfgyx2217/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
