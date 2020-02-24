@@ -116,6 +116,7 @@
 </details>
 
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog204_1.md?dfhvrsuf251h#1">新唐人大陆新闻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1135_1.md#1">大陆人权</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog208_1.md#1">财经新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog209_1.md#1">科教新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog210_1.md#1">娱乐新闻</a></p>
@@ -126,6 +127,7 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog203_1.md#1">美国新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog206_1.md#1">台湾新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog205_1.md#1">港澳新闻</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1745_1.md#1">中美贸易战</a></p>
 </details>
 
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog207_1.md?dfhvrsuf251h#1">新唐人时事评论</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
@@ -134,9 +136,8 @@
 </details>
 <img src="https://raw.githubusercontent.com/hvrsuf251/www/master/t/lh600.jpg"><br>
 
-<h1><p><strong>热门专题</strong></p></h1>
+<h1><p><strong>大陆民生与人权</strong></p></h1>
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1138_1.md?dfhvrsuf251h#1">中国时局全解析</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1745_1.md?dfhvrsuf251h#1">中美贸易战</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5772.md#1">全民抗暴</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5773.md#1">贪腐淫乱</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5774.md#1">高层恶斗</a></p>
@@ -146,11 +147,7 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5778.md#1">国际关注</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5779.md#1">各界评说</a></p>
 </details>
-<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/9p.md?dfhvrsuf251h#1">九评与三退大潮</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5657.md#1">三退精选</a></p>
-<p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nsc1030.md#1">三退评论</a></p>
-<p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf3046.md.md#1">九评三退</a></p>
-</details>
+
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1647_1.md?dfhvrsuf251h#1">共产党百年真相</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf1176114.md#1">破坏文化</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf1176115.md#1">窜改历史</a></p>
@@ -169,14 +166,6 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5883.md#1">最新活动</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5947.md#1">国际调查</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5948.md#1">贩尸黑幕</a></p>
-</details>
-
-<img src="https://raw.githubusercontent.com/hvrsuf251/www/master/t/lh600.jpg"><br>
-
-<h1><p><strong>中国人权</strong></p></h1>
-<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/ncid278.md?fldfhvrsuf251#1">大纪元中国人权</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1135_1.md?fldfhvrsuf251#1">新唐人大陆人权</a></p>
-</details>
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5790.md#1">关注法轮功真相</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5792.md#1">中共造假</a></p>
@@ -199,6 +188,11 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf6148.md#1">迫害恶行</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf6149.md#1">各界评论</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf6150.md#1">法律依据</a></p>
+</details>
+<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/9p.md?dfhvrsuf251h#1">九评与三退大潮</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5657.md#1">三退精选</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nsc1030.md#1">三退评论</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf3046.md.md#1">九评三退</a></p>
 </details>
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog422209_1.md?fldfhvrsuf251#1">追查人权迫害者</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a href="https://github.com/hvrsuf251/djy/blob/master/gb/mh/mhtg.md#1">《明慧网通告》</a></p>
