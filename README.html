@@ -275,7 +275,7 @@
 <a id="user-content-禁闻网高速入口" class="anchor" href="#%E7%A6%81%E9%97%BB%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://zr.tzbf.gq/ban" rel="nofollow">禁闻网高速入口</a>
 </p>
 </details>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/lh600.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/lh600.jpg"><br>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
 <details><summary><p>提示::pencil:</summary>
@@ -283,21 +283,21 @@
 在微信上，如果无法打开网页或下载软件，需点右上角三个点，选从浏览器打开或下载。推荐用海外浏览器。<br>
 </details>
 
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/SzzdOgate.apk?dfblshb2317h">神州正道（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/szzdogate.rar?dfblshb2317h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/SzzdOgateTV.apk?dfblshb2317h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（电视机顶盒版）</a></p>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/SzzdOgate.apk?dfdmoadz208h">神州正道（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/szzdogate.rar?dfdmoadz208h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（网页版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/SzzdOgateTV.apk?dfdmoadz208h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神州正道（电视机顶盒版）</a></p>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/oGate.apk?dfblshb2317h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/oGate.zip?dfblshb2317h">网门（电脑版）</a>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/oGate.apk?dfdmoadz208h">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/oGate.zip?dfdmoadz208h">网门（电脑版）</a>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/fgp.zip?dfblshb2317h">自由门&thinsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/iPPOTV.zip?dfblshb2317h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/fgp.zip?dfdmoadz208h">自由门&thinsp;&nbsp;&nbsp;&nbsp;（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/iPPOTV.zip?dfdmoadz208h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱博电视（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/u.zip?dfblshb2317h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
-<p><a href="https://cdn.jsdelivr.net/gh/blshb2317/www/szzd/um.apk?dfblshb2317h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/u.zip?dfdmoadz208h">无界浏览（电脑版）&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
+<p><a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/um.apk?dfdmoadz208h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无界浏览（手机版）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
 </details>
 
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/lh600.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/lh600.jpg"><br>
 
 
 <h1><p><strong>数点梅花天地春</strong></p></h1>
@@ -310,49 +310,49 @@
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;中共活摘法轮功学员器官贩卖的事实曝光后震惊世界。大纪元社论《九评共产党》以无可辩驳的事实揭示中共这“西来幽灵”的真面目：它孳生无数腐败，毁坏中华文明，毁灭国人道德，在一场场政治运动中吞噬数千万同胞生命，是真实的魔鬼组织，必遭天惩!中国人从小加入少先队时就在血旗下宣誓要把生命献给它。在此“天灭中共”之时，退党解除毒誓，不与恶魔为伍，既是道德良知的选择，也是自我保平安的天意安排。如今超过3亿人三退。全民<a href="https://x.co/dd3" rel="nofollow">退出中共</a>，解除自己身上的耻辱授记，永远结束共产党对中国人的迫害，自利利他，是所有善良人们的愿望！</strong></p>
 </details>
 <div align="center">
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/01.jpg">
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/01.jpg">
 <h1><strong><a href="https://x.co/dd3" rel="nofollow">退出中共，远离罪恶，大瘟疫前的自救！点击这里</a></strong></h1><br>
 <br>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/03.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/04.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/06.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/07.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/10.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/11.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/12.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/13.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/14.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/15.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/16.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/17.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/18.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/19.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/20.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/21.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/22.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/23.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/24.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/25.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/26.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/27.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/28.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/29.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/30.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/31.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/32.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/33.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/34.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/35.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/36.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/37.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/38.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/39.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/40.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/41.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/42.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/43.jpg"><br>
-<img src="https://raw.githubusercontent.com/blshb2317/www/master/t/44.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/03.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/04.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/06.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/07.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/10.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/11.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/12.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/13.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/14.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/15.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/16.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/17.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/18.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/19.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/20.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/21.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/22.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/23.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/24.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/25.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/26.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/27.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/28.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/29.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/30.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/31.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/32.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/33.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/34.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/35.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/36.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/37.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/38.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/39.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/40.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/41.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/42.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/43.jpg"><br>
+<img src="https://raw.githubusercontent.com/dmoadz208/www/master/t/44.jpg"><br>
 
 <hr>
 <h1><p><strong>请参与这场民族自救运动</strong></p></h1>
@@ -365,7 +365,7 @@
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;“少女拒调戏被砍八刀二十多个围观者无动于衷”（《南方网》2002年5月17日）</p>
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;……</p>
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;这令人不寒而栗的清单，还可以一直列下去。一个曾经创造辉煌文明的礼仪之邦，何以演变到这等冷漠成性的可悲地步。数千年的重德行善、“仁义礼智信”的美好价值哪里去了?</p>
-<p><img ALIGN=left src="https://raw.githubusercontent.com/blshb2317/www/master/t/2224dae6.jpg">&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;中共窃国后，尽管我们的血脉仍在延续，但是华夏文明的薪火承传已经被截断。传统的信仰和价值观被强力破坏，人与人之间的关爱与和谐被扭曲成了斗争与仇恨；一切和历史传统有关的物品被当成“四旧”，几千年来“忠孝节义”“大学之道，在明明德，在亲民，在止于至善”的普世价值观被当成封建糟粕。"上至天子下至庶民，一皆以修身为本"的主流文化，被伪化成了宫庭争斗等党文化。由此带来社会道德全面崩溃，使整个民族陷入深重的危机。</p>
+<p><img ALIGN=left src="https://raw.githubusercontent.com/dmoadz208/www/master/t/2224dae6.jpg">&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;中共窃国后，尽管我们的血脉仍在延续，但是华夏文明的薪火承传已经被截断。传统的信仰和价值观被强力破坏，人与人之间的关爱与和谐被扭曲成了斗争与仇恨；一切和历史传统有关的物品被当成“四旧”，几千年来“忠孝节义”“大学之道，在明明德，在亲民，在止于至善”的普世价值观被当成封建糟粕。"上至天子下至庶民，一皆以修身为本"的主流文化，被伪化成了宫庭争斗等党文化。由此带来社会道德全面崩溃，使整个民族陷入深重的危机。</p>
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;我们成了一个失去了自我的民族。从文化上看，我们已经变成亡国奴。</p>
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;中华民族五千年漫漫历史长河中，曾经也出现过朝代更叠，也出现过桀、纣一类的暴君民贼，然而无论国家如何兵连祸结，黎民如何水深火热，江山易主之后。只需几十年休养生息，文明便重新昌明光大。此皆因民族文化依旧，民族道德仍在，民族精神未死！</p>
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;历史辗转到今日，以谎言和暴力得逞的中共窃权后，中华民族生存根基被摧毁得千疮百孔：五千年传承的道德标准被歪曲异化；信仰出现危机，造成中国贪官遍地，物欲横流，黑社会无孔不入。坑蒙拐骗无处不在、假冒伪劣产品泛滥成灾。历尽沧海桑田才得以形成的不可再生的自然资源被糟蹋污染。如此而往，无需多日，子孙后代将无处寻觅一方净土，一掬净水，一口纯净的空气。</p>
@@ -375,7 +375,7 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/blshb2317/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/blshb2317/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/uyybp2181/www/blob/master/README0.md#1">旧版翻墙平台</a></strong></p>
-<h4>手机上长按并复制下列链接或二维码分享本文章：</h4>https://github.com/blshb2317/www/blob/master/README.md#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/blshb2317/www/blob/master/README.md%231" title="分享本文章"></img>
+<p><strong><a href="https://github.com/dmoadz208/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/dmoadz208/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/uyybp2181/www/blob/master/README0.md#1">旧版翻墙平台</a></strong></p>
+<h4>手机上长按并复制下列链接或二维码分享本文章：</h4>https://github.com/dmoadz208/www/blob/master/README.md#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/dmoadz208/www/blob/master/README.md%231" title="分享本文章"></img>
 </div
 
