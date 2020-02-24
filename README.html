@@ -202,7 +202,7 @@
 
 <img src="https://raw.githubusercontent.com/hvrsuf251/www/master/t/lh600.jpg"><br>
 
-<h1><strong>其它媒体</strong></h1>
+<h1><strong>其它真相媒体</strong></h1>
 <p><details><summary><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">其它的新闻同步</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <details><summary>看中国新闻网</summary>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/S看大陆.md?t=02121122">看大陆</a></p>
