@@ -27,7 +27,7 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/20/2/7/n11852128.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/2020/02/10/a102773573.md#1">一个修行人对疫情的反思和避难之道</a></p>
-
+<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/19/n11880232.md#1">诚念“九字真言”治愈疫病的故事</a></p>
 </details>
 <img src="https://raw.githubusercontent.com/hvrsuf251/www/master/t/lh600.jpg"><br>
 
