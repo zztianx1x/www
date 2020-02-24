@@ -48,7 +48,7 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/ncyule.md#1">娱乐休闲</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nsc1002.md#1">健康1+1&nbsp;</a></p>
 </details>
-<p><details><summary><p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/news392.md?dfhvrsuf251h#1">大纪元时事评论</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/news392.md?dfhvrsuf251h#1">大纪元时事评论</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nscrw413.md?dfhvrsuf251h#1">新闻排行</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf6092.md#1"> 独家视角</a></p>
 </details>
