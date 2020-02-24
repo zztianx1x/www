@@ -116,17 +116,21 @@
 </details>
 
 <p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog204_1.md?dfhvrsuf251h#1">新唐人大陆新闻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog207_1.md?dfhvrsuf251h#1">时事评论</a></p>
-<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/headline-news_1.md?dfhvrsuf251h#1">头条要闻</a></p>
-<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/editor-pickup_1.md?dfhvrsuf251h#1">编辑推荐</a></p>
-</details>
-<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog202_1.md?dfhvrsuf251h#1">新唐人国际新闻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog208_1.md#1">财经新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog209_1.md#1">科教新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog210_1.md#1">娱乐新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog211_1.md#1">体育新闻</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/culture-world_1.md#1">博览天下</a></p>
-<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog205_1.md#1">香港新闻</a></p>
+</details>
+<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog202_1.md?dfhvrsuf251h#1">新唐人国际新闻</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog203_1.md#1">美国新闻</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog206_1.md#1">台湾新闻</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog205_1.md#1">港澳新闻</a></p>
+</details>
+
+<p><details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog207_1.md?dfhvrsuf251h#1">新唐人时事评论</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/headline-news_1.md?dfhvrsuf251h#1">头条要闻</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/editor-pickup_1.md?dfhvrsuf251h#1">编辑推荐</a></p>
 </details>
 <img src="https://raw.githubusercontent.com/hvrsuf251/www/master/t/lh600.jpg"><br>
 
@@ -155,6 +159,7 @@
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf1176107.md#1">党魁画皮</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf1176111.md#1">迫害精英</a></p>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf1176117.md#1">卖国恶行</a></p>
+<p><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog1704_1.md#1">百年红祸</a></p>
 </details>
 <details><summary><a target="_blank" href="https://github.com/hvrsuf251/ntdtv/blob/master/gb/prog447_1.md?dfhvrsuf251h#1">揭中共活摘器官</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a target="_blank" href="https://github.com/hvrsuf251/djy/blob/master/gb/nf5877.md#1">事件报导</a></p>
