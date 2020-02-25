@@ -13,7 +13,7 @@
 <br>
 <a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/442749_1.md?dfcdhmw2466h#1"><img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/jt.gif"></a>
 <h1><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/442749_1.md?dfcdhmw2466h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
-<details><summary><p><strong>大瘟疫前的自救！平台推荐文章：:pencil:</strong></summary></p>
+<details><summary><p>大瘟疫前的自救！平台推荐文章：:pencil:</summary></p>
 <p>歌词：泪人迷<br>
 ----起航<br>
 莫等真相大显时，悔恨梦醒迟。<br>
@@ -203,7 +203,7 @@
 
 <img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/lh600.jpg"><br>
 
-<h1><strong>其它真相媒体</strong></h1>
+<h1><strong>其它的真相媒体</strong></h1>
 <p><details><summary><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md">其它的新闻同步</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <details><summary>看中国新闻网</summary>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/S看大陆.md?t=02121122">看大陆</a></p>
@@ -302,7 +302,7 @@
 
 <h1><p><strong>数点梅花天地春</strong></p></h1>
 </div>
-<details><summary align="center"><p ><strong>历史见证::pencil:</strong></p></summary>
+<details><summary align="center"><p ><strong>历史的见证::pencil:</strong></p></summary>
 
 <p><strong>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;二十年的腥风血雨，二十多年的凌辱折磨，岁月飞逝，历史见证，迫害善良原本就是违背道义不得民心的...</p>
 <p>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;99年中共因法轮功修炼人数超过党员而疯狂镇压，不惜制造一个个谎言，导演天安门自焚案栽赃法轮功，对坚持信仰的学员绑架抄家，用尽酷刑，导致数以百万计的家破人亡、妻离子散！然而中共高估了自己的造假宣传。各国政府纷纷谴责中共暴行，高度肯定法轮功提升道德、净化心灵、强身健体的卓越成效。在国内，声援法轮功的事件此起彼伏。成千上万人为被非法抓捕的学员请愿，演绎了不畏强权反迫害的一幕又一幕。</p>
