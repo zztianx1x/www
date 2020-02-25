@@ -7,28 +7,21 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <div align="center">
 <a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/nsc413.md?dfcdhmw2466h#1"><img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a>.....:pencil:</summary></p>
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>，同时收藏网址到浏览器....:pencil:</summary></p>
 建议用海外浏览器打开本平台，短网址 <a href="https://git.io/*8">git.io/*8</a>&nbsp;&nbsp;&nbsp;&nbsp;或者&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.co/3e">x.co/3e</a><br>
 </details>
 <br>
 <a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/442749_1.md?dfcdhmw2466h#1"><img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/jt.gif"></a>
 <h1><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/442749_1.md?dfcdhmw2466h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
 <details><summary><p>大瘟疫前的自救！平台推荐文章：:pencil:</summary></p>
-<p>歌词：泪人迷<br>
-----起航<br>
-莫等真相大显时，悔恨梦醒迟。<br>
-含泪慈悲告诉你，乱世莫执迷。<br>
-浮华人间是幻象，争来的带不去。<br>
-红魔祸乱本善失，欲壑连地狱。<br>
-洪传大法主来世，法徒是天使。<br>
-别等真相大显时，悔恨梦醒迟…<br>
-</p>
-<br>
+
 <p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/7/n11852128.md#1">《刘伯温碑记》点明避开瘟疫的真言</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/11/n11861529.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2018/07/01/a1381797.md#1">陈抟老祖《心相篇》对世人的告诫</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2020/02/10/a102773573.md#1">一个修行人对疫情的反思和避难之道</a></p>
 <p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/19/n11880232.md#1">诚念“九字真言”治愈疫病的故事</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/20/n11884306.md#1">中共祸害广 国人快“三退”</a></p>
 </details>
 <img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/lh600.jpg"><br>
 
