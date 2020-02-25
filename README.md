@@ -7,7 +7,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <div align="center">
 <a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/nsc413.md?dfcdhmw2466h#1"><img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/www.jpg"></a><br>
-<p><details><summary><strong>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a></strong>......更多：:pencil:</strong></summary></p>
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a>.....更多：:pencil:</strong></summary></p>
 建议用海外浏览器打开本平台，短网址 <a href="https://git.io/*8">git.io/*8</a>&nbsp;&nbsp;&nbsp;&nbsp;或者&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.co/3e">x.co/3e</a><br>
 </details>
 <br>
