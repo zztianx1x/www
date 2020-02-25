@@ -16,12 +16,12 @@
 <details><summary><p>大瘟疫前的自救！平台推荐文章：:pencil:</summary></p>
 
 <p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/7/n11852128.md#1">《刘伯温碑记》点明避开瘟疫的真言</a></p>
-<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/11/n11861529.md#1">瘟疫来势汹汹 却绕开了这些人</a></p>
-<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根 历史天象醒今人</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/11/n11861529.md#1">瘟疫来势汹汹  为何绕开了这些人</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根  历史天象醒今人</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2018/07/01/a1381797.md#1">陈抟老祖《心相篇》对世人的告诫</a></p>
-<p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2020/02/10/a102773573.md#1">一个修行人对疫情的反思和避难之道</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/19/n11880232.md#1">诚念“九字真言”治愈疫病的故事</a></p>
-<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/20/n11884306.md#1">中共祸害广 国人快“三退”</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2020/02/10/a102773573.md#1">一修行人对疫情的反思和避难之道</a></p>
+<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/19/n11880232.md#1">诚念 “九字真言” 治愈疫病的故事</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/20/n11884306.md#1">退出无神论组织 做个神佛保佑的人</a></p>
 </details>
 <img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/lh600.jpg"><br>
 
