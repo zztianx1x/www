@@ -7,8 +7,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <div align="center">
 <a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/nsc413.md?dfcdhmw2466h#1"><img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/www.jpg"></a><br>
-<p><strong>个别浏览器打不开或没显示图片，请刷新一下。建议用海外浏览器打开本平台，短网址 <a href="https://git.io/*8">git.io/*8</a><br>
-持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a></strong></p>
+<p><strong>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请收藏网址到浏览器，同时<a href="#8">下载翻墙软件</a></strong></p>
 
 <img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/jt.gif">
 <h1><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/442749_1.md?dfcdhmw2466h#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h1>
