@@ -295,10 +295,10 @@
 <p><a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/oGate.zip">网门（电脑版）</a>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/fgp.zip">自由门&thinsp;&nbsp;&nbsp;&nbsp;（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/u.zip">无界浏览（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/um.apk">无界浏览（手机版）</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/cdhmw2466/www/szzd/um.apk">无界浏览（手机版）</a></p>
 </details>
 
 <img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/lh600.jpg"><br>
