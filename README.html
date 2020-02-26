@@ -20,7 +20,7 @@
 <p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/4/n11843021.md#1">武汉瘟疫治寻根  历史天象醒今人</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2018/07/01/a1381797.md#1">陈抟老祖《心相篇》对世人的告诫</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/ntdtv/blob/master/gb/2020/02/10/a102773573.md#1">一修行人对疫情的反思和避难之道</a></p>
-<p><a target="_blank" href="https://github.com/upuqsh2796/djy/blob/master/gb/20/2/19/n11880232.md#1">诚念 “九字真言” 治愈疫病的故事</a></p>
+<p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/19/n11880232.md#1">诚念 “九字真言” 治愈疫病的故事</a></p>
 <p><a target="_blank" href="https://github.com/cdhmw2466/djy/blob/master/gb/20/2/20/n11884306.md#1">退出无神论组织 做个神佛保佑的人</a></p>
 </details>
 <img src="https://raw.githubusercontent.com/cdhmw2466/www/master/t/lh600.jpg"><br>
@@ -226,6 +226,17 @@
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/H文化寻根.md?t=02121122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文化寻根</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/H大陆新闻.md?t=02121122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大陆新闻</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news1/blob/master/indexes/H港台新闻.md?t=02121122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;港台新闻</a></p>
+</details>
+<details><summary>>明慧海外之窗</summary>
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/328.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;迫害案例综述</a></p>
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/277.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;迫害致死案例</a></p> 
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/81.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多迫害案例</a></p> 
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/251.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时事评论</a></p>
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/245.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;海外简讯</a></p> 
+ <p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/140.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;社会支持</a></p>
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/282.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;褒奖决议</a></p>
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/91.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;社区报道</a></p> 
+<p><a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/78.md?t=02260800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天人之间</a></p> 
 </details>
 </details>
 <p><details><summary><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/README.md#1">在线看明慧期刊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>:pencil:</p></summary>
