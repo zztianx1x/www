@@ -239,7 +239,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-news/blob/master/indexes/78.md?t=02260800">天人之间</a></p> 
 </details>
 </details>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<details><summary><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/README.md#1">在线看明慧期刊</a>:pencil:</p></summary>
+<p><details><summary><a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/README.md#1">在线看明慧期刊</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <details><summary>明慧期刊</summary>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/zhongguo.md">明慧周报</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://gitlab.com/szzdlab/mh-qikan/-/blob/master/indexes/cangsheng.md">天地苍生</a></p>
