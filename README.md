@@ -282,7 +282,7 @@
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/lh600.jpg"><br>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
-<details><summary><p>提示:<g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji></summary>
+<details><summary><p>提示::pencil:</summary>
 本平台的翻墙软件，一键破网，操作简单，绿色免费，强度加密，使用安全。<br>
 在微信上，如果无法打开网页或下载软件，需点右上角三个点，选从浏览器打开或下载。推荐用海外浏览器。<br>
 </details>
@@ -318,7 +318,7 @@
 <h1><strong><a href="https://x.co/dd3" rel="nofollow">退出中共，远离罪恶，大瘟疫前的自救！点击这里</a></strong></h1><br>
 <br>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg"><img src="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg" style="max-width:100%;"></a><br>
+<img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/03.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/04.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/06.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/07.jpg"><br>
