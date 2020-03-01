@@ -282,7 +282,7 @@
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/lh600.jpg"><br>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
-<details><summary><p>提示:<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></summary>
+<details><summary><p>提示::pencil:</summary>
 本平台的翻墙软件，一键破网，操作简单，绿色免费，强度加密，使用安全。<br>
 在微信上，如果无法打开网页或下载软件，需点右上角三个点，选从浏览器打开或下载。推荐用海外浏览器。<br>
 </details>
