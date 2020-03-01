@@ -321,7 +321,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg"><img src="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg" style="max-width:100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/szzd0/www/t/04.jpg"><img src="https://cdn.jsdelivr.net/gh/szzd0/www/t/04.jpg" style="max-width:100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/szzdlab/www/raw/master/t/06.jpg"><img src="https://gitlab.com/szzdlab/www/raw/master/t/06.jpg" style="max-width:100%;"></a><br>
-<g-emoji class="g-emoji" alias="memo" fallback-src="https://gitlab.com/szzdlab/www/raw/master/t/06.jpg">📝</g-emoji></summary>
+<g-emoji class="g-emoji" alias="memo" fallback-src="https://gitlab.com/szzdlab/www/raw/master/t/06.jpg">📝</g-emoji><
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/07.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/10.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/11.jpg"><br>
