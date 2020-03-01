@@ -318,9 +318,10 @@
 <h1><strong><a href="https://x.co/dd3" rel="nofollow">退出中共，远离罪恶，大瘟疫前的自救！点击这里</a></strong></h1><br>
 <br>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bbfwc2554/www/master/t/03.jpg"><img src="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg" style="max-width:100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg"><img src="https://cdn.statically.io/gh/szzd0/www/master/t/03.jpg" style="max-width:100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/szzd0/www/t/04.jpg"><img src="https://cdn.jsdelivr.net/gh/szzd0/www/t/04.jpg" style="max-width:100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/szzdlab/www/raw/master/t/06.jpg"><img src="https://gitlab.com/szzdlab/www/raw/master/t/06.jpg" style="max-width:100%;"></a><br>
+<img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/06.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/07.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/10.jpg"><br>
 <img src="https://raw.githubusercontent.com/bbfwc2554/www/master/t/11.jpg"><br>
