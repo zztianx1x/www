@@ -6,6 +6,7 @@
 <a name="5" id="5" target="_blank"></a> <span id="5"></span>
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
+<a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/wqzpig2732/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/wqzpig2732/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>，同时收藏网址到浏览器....:pencil:</summary></p>
