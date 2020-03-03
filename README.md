@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/qnbcdo211/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/qnbcdo211/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>，同时收藏网址到浏览器....:pencil:</summary></p>
-建议用海外浏览器打开本平台，短网址 <a href="https://git.io/*8">git.io/*8</a>&nbsp;&nbsp;&nbsp;&nbsp;或者&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.co/3e">x.co/3e</a><br>
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;&nbsp;&nbsp;....<img width="20" src="https://github.com/images/icons/emoji/unicode/1f4dd.png"/></summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/*8">git.io/*8</a>&nbsp;&nbsp;或者&nbsp;&nbsp;<a href="https://x.co/3e">x.co/3e</a> &nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/6n">x.co/6n</a><br>  
 </details>
 <br>
 <a target="_blank" href="https://github.com/qnbcdo211/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/qnbcdo211/www/master/t/jt.gif"></a>
