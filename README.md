@@ -388,7 +388,7 @@
 <div align="center">
 <hr>
 <p><strong><a href="https://github.com/qabgnz254/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/qabgnz254/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/qabgnz254/www/master/index.html">高速版平台</a></strong></p>
-<h4>手机上长按并复制下列链接或二维码分享本文章：</h4>https://github.com/qabgnz254/www/blob/master/README.md#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/qabgnz254/www/blob/master/README.md%231" title="分享本文章"></img>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/qabgnz254/www/blob/master/README.md#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/qabgnz254/www/blob/master/README.md%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: git.io/ehhhh</div
+<div align="center">短网址: <a href="https://git.io/bhhhh">git.io/bhhhh</a></div
 
