@@ -346,7 +346,11 @@
           || search.indexOf("opViewGet")==0 || search.indexOf("opViewHoldSet")==0 || search.indexOf("opViewKickSet")==0) {
           document.getElementById(id).innerHTML=data;
       }
-
+      else if (id.indexOf("Head")==2) {
+          document.getElementById("ooHead").innerHTML=data;
+          showSlides(slideIndex);
+          Load("ogFoot");
+      }
       else if (id.indexOf("Foot")==2) {
           document.getElementById("ooFoot").innerHTML=data;
           Load(ooFind);
