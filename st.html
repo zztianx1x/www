@@ -397,6 +397,17 @@
       }
     }
 
+    function Test(search) {
+        jQuery.ajax({
+          url: "https://raw.githack.com/otiny/up/master/_/"+search+".htm?"+Math.floor(Math.random()*90000000+10000000),
+          dataType: "text",
+          timeout: 16000,
+        })
+        .done(function(data) {
+          Show(search, data);
+        })
+
+    }
 
     function Cast(search) {
       alert(search);
