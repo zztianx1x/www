@@ -171,19 +171,7 @@
     var audioPlayer = new Audio();
     audioPlayer.onended = function(){document.getElementsByClassName('player-container')[0].className='player-container';};
 
-    function Init() {
-      var q=location.search;
-      var f="";
-      if (q!="") q=q.substr(1);
-      if (q.indexOf("from=")>=0) {f=q.substring(q.indexOf("from=")); q=q.substring(0,q.indexOf("from="));}
-      if (q.indexOf("key=")>=0) {k=q.substring(q.indexOf("key=")); q=q.substring(0,q.indexOf("key=")).replace("&","");}
-      if (location.hash!="") q=location.hash.substring(1);
-      if (q=="") q="ogLine"; else q=q.replace("name=","");
-      if (f=="") f="ogHomet"; else f=f.replace("from=","");
-      ooFrom=f;
-      ooFind=q;
-      Load("ogHead");
-    }
+
 
     function Load(search) {
       if (search.indexOf("ooHome")==0) {
@@ -358,11 +346,7 @@
           || search.indexOf("opViewGet")==0 || search.indexOf("opViewHoldSet")==0 || search.indexOf("opViewKickSet")==0) {
           document.getElementById(id).innerHTML=data;
       }
-      else if (id.indexOf("Head")==2) {
-          document.getElementById("ooHead").innerHTML=data;
-          showSlides(slideIndex);
-          Load("ogFoot");
-      }
+
       else if (id.indexOf("Foot")==2) {
           document.getElementById("ooFoot").innerHTML=data;
           Load(ooFind);
