@@ -397,20 +397,7 @@
       }
     }
 
-    function Test(search) {
-        jQuery.ajax({
-          url: "https://raw.githack.com/otiny/up/master/_/"+search+".htm?"+Math.floor(Math.random()*90000000+10000000),
-          dataType: "text",
-          timeout: 16000,
-        })
-        .done(function(data) {
-          Show(search, data);
-        })
-        .fail(function() {
-          document.getElementById("ooWait").style.display="none";
-          alert("精简版 获取失败，请用：\r\n安卓版 https://x.co/ogatea\r\n电脑版 https://x.co/ogatew");
-        });
-    }
+
 
     function Cast(search) {
       alert(search);
