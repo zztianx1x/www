@@ -10,7 +10,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/utljy2624/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/utljy2624/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....<img width="20" src="https://github.com/images/icons/emoji/unicode/1f4dd.png"/></summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/cqqqq">git.io/cqqqq</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/ppd">x.co/ppd</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/brrrr">git.io/brrrr</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/2666">x.co/2666</a><br>  
 </details>
 <br>
 <a target="_blank" href="https://github.com/utljy2624/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/utljy2624/www/master/t/jt.gif"></a>
@@ -260,7 +260,15 @@
 </details>
 </details>
 <p><details><summary><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm">网门网页完整版</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
-<p><a target="_blank" href="https://raw.githack.com/otiny/up/master/show002.htm">网页精简版</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r816728">动态网</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r816727">大纪元</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r816732">新唐人</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r1086450">明慧网</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r956411">希望之声</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r816768">无界浏览</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r1088333">明慧网手机版</a></p>
+<p><a target="_blank" href="https://raw.githack.com/utljy2624/www/master/show001.htm?r1105873">新唐人手机版</a></p>
+<p><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门软件下载</a></p>
 </details
 
 <p><details><summary><a target="_blank" href="https://github.com/hao2369/a/wiki/jyg">聚缘阁网页代理</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
@@ -390,8 +398,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/utljy2624/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/utljy2624/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/utljy2624/www/master/?o">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/utljy2624/www/blob/master/README.md?d#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/utljy2624/www/blob/master/README.md?o%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/utljy2624/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/utljy2624/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/utljy2624/www/master/?y">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/utljy2624/www/blob/master/README.md?v#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/utljy2624/www/blob/master/README.md?j%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/cqqqq">git.io/cqqqq</a></div>
+<div align="center">短网址: <a href="https://git.io/brrrr">git.io/brrrr</a></div>
 
