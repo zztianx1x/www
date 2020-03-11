@@ -10,7 +10,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/cdzvd231/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/cdzvd231/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....<img width="20" src="https://github.com/images/icons/emoji/unicode/1f4dd.png"/></summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/cnnnn">git.io/cnnnn</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/p9p">x.co/p9p</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bhhhh">git.io/bhhhh</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/pfp">x.co/pfp</a><br>  
 </details>
 <br>
 <a target="_blank" href="https://github.com/cdzvd231/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/cdzvd231/www/master/t/jt.gif"></a>
@@ -399,8 +399,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/cdzvd231/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/cdzvd231/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/cdzvd231/www/master/?z">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/cdzvd231/www/blob/master/README.md?o#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/cdzvd231/www/blob/master/README.md?n%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/cdzvd231/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/cdzvd231/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/cdzvd231/www/master/?c">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/cdzvd231/www/blob/master/README.md?k#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/cdzvd231/www/blob/master/README.md?q%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/cnnnn">git.io/cnnnn</a></div>
+<div align="center">短网址: <a href="https://git.io/bhhhh">git.io/bhhhh</a></div>
 
