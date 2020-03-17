@@ -311,7 +311,8 @@
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/oGate.apk">网门&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（手机版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
 <p><a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/oGate.zip">网门（电脑版）</a>
 </details>
-<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/fgp.zip">自由门&thinsp;&nbsp;&nbsp;&nbsp;（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p><details><summary><a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/fgp.zip">自由门7.77（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/fgma.apk">自由门4.0（手机版）</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
 </details>
 <p><details><summary><a href="https://cdn.jsdelivr.net/gh/jmzkba221/www/szzd/u.zip">无界浏览（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:pencil:</p></summary>
