@@ -10,11 +10,10 @@
 <div align="center">
 <a target="_blank" href="https://github.com/nnzxiz2619/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/nnzxiz2619/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/33333333">git.io/33333333</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/mdd">x.co/mdd</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/rrrrrrrr">git.io/rrrrrrrr</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/pxp">x.co/pxp</a><br>  
 </details>
 <br>
 <a target="_blank" href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/nnzxiz2619/www/master/t/jt.gif"></a>
-<br><a target="_blank" href="https://nnzxiz2619.github.io/oo/yq.html">全球疫情地图</a>
 <h2><a target="_blank" href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/442749_1.md#1"><strong>肺炎疫情知多少----看海外真实报道</strong></a><br></h2>
 <details><summary><p>大瘟疫前的自救！平台推荐文章：:pencil:</summary></p>
 
@@ -397,8 +396,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/nnzxiz2619/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/nnzxiz2619/www/master/?t">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/nnzxiz2619/www/blob/master/README.md?f#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/nnzxiz2619/www/blob/master/README.md?c%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/nnzxiz2619/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/nnzxiz2619/www/master/?h">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/nnzxiz2619/www/blob/master/README.md?c#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/nnzxiz2619/www/blob/master/README.md?a%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/33333333">git.io/33333333</a></div>
+<div align="center">短网址: <a href="https://git.io/rrrrrrrr">git.io/rrrrrrrr</a></div>
 
