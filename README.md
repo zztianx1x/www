@@ -9,33 +9,34 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/krwwkl2097/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/krwwkl2097/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/krwwkl2097/www/master/?f">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/kkkkkk">git.io/kkkkkk</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/vaa">x.co/vaa</a><br>  
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/krwwkl2097/www/master/?x">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/a3333">git.io/a3333</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/668">x.co/668</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981697.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/孙春兰再次视察武汉 居民楼竟传出令人肉麻的声>-007fff?logoWidth=1" title="孙春兰再次视察武汉 居民楼竟传出令人肉麻的声音  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982898.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/传马云等企业家联名上书 促习释放任志强   >-007fff?logoWidth=1" title="传马云等企业家联名上书 促习释放任志强  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981644.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/微信过滤疫情敏感信息 海外华人被“隐形”  >-007fff?logoWidth=1" title="微信过滤疫情敏感信息 海外华人被“隐形”  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810492.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/漫画《甩锅》刺痛中共 北京画家被深夜带走  >-007fff?logoWidth=1" title="漫画《甩锅》刺痛中共 北京画家被深夜带走  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983318.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/深圳湾航道疏浚工程环评涉抄袭 网友嘲讽   >-007fff?logoWidth=1" title="深圳湾航道疏浚工程环评涉抄袭 网友嘲讽  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11982025.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/与方舱邻居聊天 男子几天后去世       >-007fff?logoWidth=1" title="与方舱邻居聊天 男子几天后去世  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982655.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共肺炎疫情下 副镇长带人入村强拆起冲突  >-007fff?logoWidth=1" title="中共肺炎疫情下 副镇长带人入村强拆起冲突  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉为何用垃圾车运菜肉           >-007fff?logoWidth=1" title="武汉为何用垃圾车运菜肉  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810572.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川普签2万亿援助法案 漫画《甩锅》作者深夜被>-007fff?logoWidth=1" title="川普签2万亿援助法案 漫画《甩锅》作者深夜被带走  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810252.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川普让习近平等90分钟 有更重要的事？   >-007fff?logoWidth=1" title="川普让习近平等90分钟 有更重要的事？  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981532.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/不只江西拒湖北人 安徽也加入        >-007fff?logoWidth=1" title="不只江西拒湖北人 安徽也加入  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981068.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/北京画家创作《甩锅》 遭公安深夜带走　   >-007fff?logoWidth=1" title="北京画家创作《甩锅》 遭公安深夜带走　  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984038.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共大外宣进军推特 盗号及造假账号配合   >-007fff?logoWidth=1" title="中共大外宣进军推特 盗号及造假账号配合  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984151.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉之谜：染疫患者康复后再检测出阳性    >-007fff?logoWidth=1" title="武汉之谜：染疫患者康复后再检测出阳性  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810343.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/习近平G20视频会议 一张照片中的玄机   >-007fff?logoWidth=1" title="习近平G20视频会议 一张照片中的玄机  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810282.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（1）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（1）  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11978951.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美国华人向中国捐口罩被卖回美国 舆论哗然  >-007fff?logoWidth=1" title="美国华人向中国捐口罩被卖回美国 舆论哗然  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981409.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美中关系变微妙 川普让习近平等90分钟   >-007fff?logoWidth=1" title="美中关系变微妙 川普让习近平等90分钟  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984070.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒现生精细胞上 不排除性传播可能   >-007fff?logoWidth=1" title="中共病毒现生精细胞上 不排除性传播可能  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983318.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/深圳湾航道疏浚工程环评涉抄袭 网友嘲讽   >-007fff?logoWidth=1" title="深圳湾航道疏浚工程环评涉抄袭 网友嘲讽  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810448.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国急关影院 疫情恐再大爆发        >-007fff?logoWidth=1" title="中国急关影院 疫情恐再大爆发  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/28/a102810458.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/微博求救的伯曼儿 现在怎么样了？      >-007fff?logoWidth=1" title="微博求救的伯曼儿 现在怎么样了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981068.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/北京画家创作《甩锅》 遭公安深夜带走　   >-007fff?logoWidth=1" title="北京画家创作《甩锅》 遭公安深夜带走　  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982683.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北江西爆冲突后 联合发布公告撤防疫点   >-007fff?logoWidth=1" title="湖北江西爆冲突后 联合发布公告撤防疫点  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982344.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂“内战”打脸中央 川普提六四      >-007fff?logoWidth=1" title="赣鄂“内战”打脸中央 川普提六四  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982655.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共肺炎疫情下 副镇长带人入村强拆起冲突  >-007fff?logoWidth=1" title="中共肺炎疫情下 副镇长带人入村强拆起冲突  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983210.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆医学专家承认：无症状感染者越来越多   >-007fff?logoWidth=1" title="大陆医学专家承认：无症状感染者越来越多  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981644.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/微信过滤疫情敏感信息 海外华人被“隐形”  >-007fff?logoWidth=1" title="微信过滤疫情敏感信息 海外华人被“隐形”  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982898.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/传马云等企业家联名上书 促习释放任志强   >-007fff?logoWidth=1" title="传马云等企业家联名上书 促习释放任志强  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11978951.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美国华人向中国捐口罩被卖回美国 舆论哗然  >-007fff?logoWidth=1" title="美国华人向中国捐口罩被卖回美国 舆论哗然  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980944.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉七大殡仪馆 每天共发放三千五百个骨灰盒 >-007fff?logoWidth=1" title="武汉七大殡仪馆 每天共发放三千五百个骨灰盒  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980618.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西湖北公安混战 掀翻警车         >-007fff?logoWidth=1" title="江西湖北公安混战 掀翻警车  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/25/n11973385.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/雷神山医院建设工人被隔离一个多月 上网求救 >-007fff?logoWidth=1" title="雷神山医院建设工人被隔离一个多月 上网求救  "></a><br>
@@ -50,15 +51,11 @@
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/27/a102809516.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/贵州率先复工复学 209名学生集体发烧   >-007fff?logoWidth=1" title="贵州率先复工复学 209名学生集体发烧  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984349.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共借疫情割韭菜              >-007fff?logoWidth=1" title="中共借疫情割韭菜  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983869.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/CDC主任：中共早期一直否定病毒会人传人  >-007fff?logoWidth=1" title="CDC主任：中共早期一直否定病毒会人传人  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983977.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/给医护送饭的大律师             >-007fff?logoWidth=1" title="给医护送饭的大律师  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984070.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒现生精细胞上 不排除性传播可能   >-007fff?logoWidth=1" title="中共病毒现生精细胞上 不排除性传播可能  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984151.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉之谜：染疫患者康复后再检测出阳性    >-007fff?logoWidth=1" title="武汉之谜：染疫患者康复后再检测出阳性  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984038.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共大外宣进军推特 盗号及造假账号配合   >-007fff?logoWidth=1" title="中共大外宣进军推特 盗号及造假账号配合  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11984023.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/一张图看懂：“中共病毒”全球入侵      >-007fff?logoWidth=1" title="一张图看懂：“中共病毒”全球入侵  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11978663.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代转发建议书吁高层问责         >-007fff?logoWidth=1" title="红二代转发建议书吁高层问责  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983805.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共专家首次披露武汉封城始末 泄何秘密？  >-007fff?logoWidth=1" title="中共专家首次披露武汉封城始末 泄何秘密？  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉为何用垃圾车运菜肉           >-007fff?logoWidth=1" title="武汉为何用垃圾车运菜肉  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980933.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/2019年 云南昆明法轮功学员遭迫害综述  >-007fff?logoWidth=1" title="2019年 云南昆明法轮功学员遭迫害综述  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982118.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂警察冲突 4大挑战冲击中共       >-007fff?logoWidth=1" title="赣鄂警察冲突 4大挑战冲击中共  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983836.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/谭德塞为中共站台误导全球 被美议员批评   >-007fff?logoWidth=1" title="谭德塞为中共站台误导全球 被美议员批评  "></a><br>
@@ -76,6 +73,7 @@
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/26/n11977814.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（1）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（1）  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980754.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/批WHO亲共 日副首相：应改名为中国卫生组织>-007fff?logoWidth=1" title="批WHO亲共 日副首相：应改名为中国卫生组织  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981483.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川习通话 美专家：提供支持 做比说强    >-007fff?logoWidth=1" title="川习通话 美专家：提供支持 做比说强  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981532.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/不只江西拒湖北人 安徽也加入        >-007fff?logoWidth=1" title="不只江西拒湖北人 安徽也加入  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981288.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美国女孩称病毒与己无关 两天后直呼后悔   >-007fff?logoWidth=1" title="美国女孩称病毒与己无关 两天后直呼后悔  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/24/n11968542.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/参议员促川普 多管齐下回击中共疫情大外宣  >-007fff?logoWidth=1" title="参议员促川普 多管齐下回击中共疫情大外宣  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/23/n11966599.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/嗅觉味觉无端失灵 或已染中共病毒      >-007fff?logoWidth=1" title="嗅觉味觉无端失灵 或已染中共病毒  "></a><br>
@@ -470,8 +468,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?w">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?u#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?e%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?z">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?c#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?b%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/kkkkkk">git.io/kkkkkk</a></div>
+<div align="center">短网址: <a href="https://git.io/a3333">git.io/a3333</a></div>
 
