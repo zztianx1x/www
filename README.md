@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/krwwkl2097/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/krwwkl2097/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/krwwkl2097/www/master/?x">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/a3333">git.io/a3333</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/668">x.co/668</a><br>  
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/krwwkl2097/www/master/?e">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/yyyyyyyy">git.io/yyyyyyyy</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/5aa">x.co/5aa</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -36,6 +36,8 @@
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982344.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂“内战”打脸中央 川普提六四      >-007fff?logoWidth=1" title="赣鄂“内战”打脸中央 川普提六四  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983210.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆医学专家承认：无症状感染者越来越多   >-007fff?logoWidth=1" title="大陆医学专家承认：无症状感染者越来越多  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982898.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/传马云等企业家联名上书 促习释放任志强   >-007fff?logoWidth=1" title="传马云等企业家联名上书 促习释放任志强  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981771.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情援助 中共表现“淡定”有何隐情     >-007fff?logoWidth=1" title="疫情援助 中共表现“淡定”有何隐情  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980906.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美确诊人数超中国？分析：中共隐瞒真实疫情  >-007fff?logoWidth=1" title="美确诊人数超中国？分析：中共隐瞒真实疫情  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11978951.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美国华人向中国捐口罩被卖回美国 舆论哗然  >-007fff?logoWidth=1" title="美国华人向中国捐口罩被卖回美国 舆论哗然  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980944.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉七大殡仪馆 每天共发放三千五百个骨灰盒 >-007fff?logoWidth=1" title="武汉七大殡仪馆 每天共发放三千五百个骨灰盒  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980618.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西湖北公安混战 掀翻警车         >-007fff?logoWidth=1" title="江西湖北公安混战 掀翻警车  "></a><br>
@@ -468,8 +470,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?z">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?c#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?b%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?k">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?r#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?k%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/a3333">git.io/a3333</a></div>
+<div align="center">短网址: <a href="https://git.io/yyyyyyyy">git.io/yyyyyyyy</a></div>
 
