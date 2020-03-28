@@ -10,7 +10,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/krwwkl2097/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/krwwkl2097/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/aqqqq">git.io/aqqqq</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/3555">x.co/3555</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bpppp">git.io/bpppp</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/2225">x.co/2225</a><br>  
 </details>
 <br>
 <h1><p><strong>海外报道 今天头条</strong></p></h1>
@@ -52,6 +52,7 @@
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982994.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情重创楼市 大陆房企藉优化为由欠薪裁员  >-007fff?logoWidth=1" title="疫情重创楼市 大陆房企藉优化为由欠薪裁员  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983210.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆医学专家承认：无症状感染者越来越多   >-007fff?logoWidth=1" title="大陆医学专家承认：无症状感染者越来越多  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982683.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北江西爆冲突后 联合发布公告撤防疫点   >-007fff?logoWidth=1" title="湖北江西爆冲突后 联合发布公告撤防疫点  "></a><br>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982475.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西和湖北警察爆冲突            >-007fff?logoWidth=1" title="江西和湖北警察爆冲突  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982860.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/福布斯：中共肺炎重创中国经济甚过萨斯    >-007fff?logoWidth=1" title="福布斯：中共肺炎重创中国经济甚过萨斯  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982344.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂“内战”打脸中央 川普提六四      >-007fff?logoWidth=1" title="赣鄂“内战”打脸中央 川普提六四  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982655.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共肺炎疫情下 副镇长带人入村强拆起冲突  >-007fff?logoWidth=1" title="中共肺炎疫情下 副镇长带人入村强拆起冲突  "></a><br>
@@ -465,7 +466,7 @@
 <div align="center">
 <hr>
 <p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?t">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?w#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?t%231" title="分享本平台"></img>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?l#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?x%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/aqqqq">git.io/aqqqq</a></div>
+<div align="center">短网址: <a href="https://git.io/bpppp">git.io/bpppp</a></div>
 
