@@ -10,7 +10,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/krwwkl2097/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/krwwkl2097/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/fcccc">git.io/fcccc</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aa9">x.co/aa9</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ebbbb">git.io/ebbbb</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/j22">x.co/j22</a><br>  
 </details>
 <br>
 <h1><p><strong>海外报道 今天头条</strong></p></h1>
@@ -42,12 +42,11 @@
 <a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/28/a102810492.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/漫画《甩锅》刺痛中共 北京画家被深夜带走  >-007fff?logoWidth=1" title="漫画《甩锅》刺痛中共 北京画家被深夜带走  "></a><br>
 <a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/28/a102810391.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/温州商人：中共病毒沿“一带一路”传播    >-007fff?logoWidth=1" title="温州商人：中共病毒沿“一带一路”传播  "></a><br>
 <a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/28/a102810282.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（1）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（1）  "></a><br>
-<a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/27/a102809751.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/死多少人%3F汉口殡仪馆2天到货5千骨灰盒   >-007fff?logoWidth=1" title="死多少人?汉口殡仪馆2天到货5千骨灰盒  "></a><br>
 <a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/25/a102808037.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情下中南海局势混乱 胡锦涛之子升职落空  >-007fff?logoWidth=1" title="疫情下中南海局势混乱 胡锦涛之子升职落空  "></a><br>
 <a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/27/a102809516.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/贵州率先复工复学 209名学生集体发烧   >-007fff?logoWidth=1" title="贵州率先复工复学 209名学生集体发烧  "></a><br>
-<a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/27/a102809747.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/英国首相约翰逊确诊感染中共病毒       >-007fff?logoWidth=1" title="英国首相约翰逊确诊感染中共病毒  "></a><br>
 <a href="https://github.com/nnzxiz2619/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/28/n11983408.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3.28疫情追踪：全球确证60万 死近3万 >-007fff?logoWidth=1" title="3.28疫情追踪：全球确证60万 死近3万  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/28/n11982118.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂警察冲突 4大挑战冲击中共       >-007fff?logoWidth=1" title="赣鄂警察冲突 4大挑战冲击中共  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/28/n11982994.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情重创楼市 大陆房企藉优化为由欠薪裁员  >-007fff?logoWidth=1" title="疫情重创楼市 大陆房企藉优化为由欠薪裁员  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/28/n11983210.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆医学专家承认：无症状感染者越来越多   >-007fff?logoWidth=1" title="大陆医学专家承认：无症状感染者越来越多  "></a><br>
@@ -68,7 +67,6 @@
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/27/n11981559.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/上任“会非常亲中” 英首相染疫       >-007fff?logoWidth=1" title="上任“会非常亲中” 英首相染疫  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/27/n11981609.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/百老汇当红女星 劳拉·贝尔·邦迪确诊染疫  >-007fff?logoWidth=1" title="百老汇当红女星 劳拉·贝尔·邦迪确诊染疫  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/27/n11981771.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情援助 中共表现“淡定”有何隐情     >-007fff?logoWidth=1" title="疫情援助 中共表现“淡定”有何隐情  "></a><br>
-<a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/27/n11979060.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/温州商人：中共传播病毒“一带一路”     >-007fff?logoWidth=1" title="温州商人：中共传播病毒“一带一路”  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/26/n11977814.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（1）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（1）  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/27/n11980754.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/批WHO亲共 日副首相：应改名为中国卫生组织>-007fff?logoWidth=1" title="批WHO亲共 日副首相：应改名为中国卫生组织  "></a><br>
 <a href="https://github.com/nnzxiz2619/djy/blob/master/gb/20/3/20/n11957690.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/一天绑架42人 吉林市公安局长刘磊被举报  >-007fff?logoWidth=1" title="一天绑架42人 吉林市公安局长刘磊被举报  "></a><br>
@@ -465,8 +463,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?p">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?a#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?q%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?a">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?n#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?c%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/fcccc">git.io/fcccc</a></div>
+<div align="center">短网址: <a href="https://git.io/ebbbb">git.io/ebbbb</a></div>
 
