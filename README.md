@@ -10,7 +10,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/bipej280/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/bipej280/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别浏览器打不开或没显示图片，请刷新一下。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/cssss">git.io/cssss</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/3339">x.co/3339</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bnnnn">git.io/bnnnn</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/u66">x.co/u66</a><br>  
 </details>
 <br>
 <a target="_blank" href="https://github.com/bipej280/ntdtv/blob/master/gb/442749_1.md#1"><img src="https://raw.githubusercontent.com/bipej280/www/master/t/jt.gif"></a>
@@ -396,8 +396,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/bipej280/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/bipej280/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/bipej280/www/master/?z">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/bipej280/www/blob/master/README.md?r#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/bipej280/www/blob/master/README.md?a%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/bipej280/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/bipej280/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/bipej280/www/master/?s">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/bipej280/www/blob/master/README.md?s#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/bipej280/www/blob/master/README.md?y%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/cssss">git.io/cssss</a></div>
+<div align="center">短网址: <a href="https://git.io/bnnnn">git.io/bnnnn</a></div>
 
