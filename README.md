@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/krwwkl2097/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/krwwkl2097/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/krwwkl2097/www/master/?y">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/c9999">git.io/c9999</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/jdd">x.co/jdd</a><br>  
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/krwwkl2097/www/master/?j">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/hhhhh">git.io/hhhhh</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/3336">x.co/3336</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -52,6 +52,7 @@
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/27/a102809516.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/贵州率先复工复学 209名学生集体发烧   >-007fff?logoWidth=1" title="贵州率先复工复学 209名学生集体发烧  "></a><br>
 <a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11978663.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代转发建议书吁高层问责         >-007fff?logoWidth=1" title="红二代转发建议书吁高层问责  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983805.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共专家首次披露武汉封城始末 泄何秘密？  >-007fff?logoWidth=1" title="中共专家首次披露武汉封城始末 泄何秘密？  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11983864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉为何用垃圾车运菜肉           >-007fff?logoWidth=1" title="武汉为何用垃圾车运菜肉  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980933.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/2019年 云南昆明法轮功学员遭迫害综述  >-007fff?logoWidth=1" title="2019年 云南昆明法轮功学员遭迫害综述  "></a><br>
@@ -74,7 +75,6 @@
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/28/n11982395.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/每日三退声明精选（2020/03/27）  >-007fff?logoWidth=1" title="每日三退声明精选（2020/03/27）  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11982053.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/母亲进ICU半小时死亡 1小时火化     >-007fff?logoWidth=1" title="母亲进ICU半小时死亡 1小时火化  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981967.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/跑完通告高烧38度 香港女星忧染疫入院筛检 >-007fff?logoWidth=1" title="跑完通告高烧38度 香港女星忧染疫入院筛检  "></a><br>
-<a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981905.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西警察禁湖北人入境 爆大规模群体冲突   >-007fff?logoWidth=1" title="江西警察禁湖北人入境 爆大规模群体冲突  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/26/n11977814.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（1）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（1）  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11980754.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/批WHO亲共 日副首相：应改名为中国卫生组织>-007fff?logoWidth=1" title="批WHO亲共 日副首相：应改名为中国卫生组织  "></a><br>
 <a href="https://github.com/krwwkl2097/djy/blob/master/gb/20/3/27/n11981483.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川习通话 美专家：提供支持 做比说强    >-007fff?logoWidth=1" title="川习通话 美专家：提供支持 做比说强  "></a><br>
@@ -471,8 +471,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?o">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?x#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?t%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/krwwkl2097/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/krwwkl2097/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/krwwkl2097/www/master/?l">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/krwwkl2097/www/blob/master/README.md?x#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/krwwkl2097/www/blob/master/README.md?x%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/c9999">git.io/c9999</a></div>
+<div align="center">短网址: <a href="https://git.io/hhhhh">git.io/hhhhh</a></div>
 
