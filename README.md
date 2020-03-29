@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/tzygt247/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/tzygt247/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/tzygt247/www/master/?k">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/acccc">git.io/acccc</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/u55">x.co/u55</a><br>  
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/tzygt247/www/master/?u">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/d8888">git.io/d8888</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/9996">x.co/9996</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -28,20 +28,21 @@
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984151.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉之谜：染疫患者康复后再检测出阳性    >-007fff?logoWidth=1" title="武汉之谜：染疫患者康复后再检测出阳性  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/27/n11981697.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/孙春兰再次视察武汉 居民楼竟传出令人肉麻的声>-007fff?logoWidth=1" title="孙春兰再次视察武汉 居民楼竟传出令人肉麻的声音  "></a><br>
-<a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810703.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国作家：武汉人连悲伤的权利都被剥夺    >-007fff?logoWidth=1" title="中国作家：武汉人连悲伤的权利都被剥夺  "></a><br>
+<a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共封关3目的 湖北人仍受歧视       >-007fff?logoWidth=1" title="中共封关3目的 湖北人仍受歧视  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810253.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/4千亿蝗虫直逼中国 犹如186艘航空母舰横扫>-007fff?logoWidth=1" title="4千亿蝗虫直逼中国 犹如186艘航空母舰横扫  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984181.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/组图：疫情下北京时尚场所冷清 乏人问津   >-007fff?logoWidth=1" title="组图：疫情下北京时尚场所冷清 乏人问津  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11982118.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂警察冲突 4大挑战冲击中共       >-007fff?logoWidth=1" title="赣鄂警察冲突 4大挑战冲击中共  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/27/n11978986.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北解封 专家：世人不信疫情“得到控制”  >-007fff?logoWidth=1" title="湖北解封 专家：世人不信疫情“得到控制”  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/25/n11974494.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/分析：中共展开“病毒外交”的背后意图    >-007fff?logoWidth=1" title="分析：中共展开“病毒外交”的背后意图  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/25/n11973385.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/雷神山医院建设工人被隔离一个多月 上网求救 >-007fff?logoWidth=1" title="雷神山医院建设工人被隔离一个多月 上网求救  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/29/a102810930.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/25岁贵州女在美产双子返国 家门被贴封条  >-007fff?logoWidth=1" title="25岁贵州女在美产双子返国 家门被贴封条  "></a><br>
-<a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共封关3目的 湖北人仍受歧视       >-007fff?logoWidth=1" title="中共封关3目的 湖北人仍受歧视  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/29/a102810929.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/如何能预见各国疫情曙光的到来？这次瘟疫到什么>-007fff?logoWidth=1" title="如何能预见各国疫情曙光的到来？这次瘟疫到什么时候会是个头？用数据和历史说话  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/29/a102810954.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川普转发“六四”推文 暗示中共疫情造假   >-007fff?logoWidth=1" title="川普转发“六四”推文 暗示中共疫情造假  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810881.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中央对地方权威下坠 党内反习势力集结 习日子>-007fff?logoWidth=1" title="中央对地方权威下坠 党内反习势力集结 习日子很难过  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810649.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西湖北警民开战 中共军机不断出动 台海诡谲>-007fff?logoWidth=1" title="江西湖北警民开战 中共军机不断出动 台海诡谲 将有一战？  "></a><br>
+<a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810301.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国各地各自为政 湖北人出城波折重重    >-007fff?logoWidth=1" title="中国各地各自为政 湖北人出城波折重重  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/28/a102810298.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马克龙暗示：不要被中共宣传毒害       >-007fff?logoWidth=1" title="马克龙暗示：不要被中共宣传毒害  "></a><br>
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/25/a102808037.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情下中南海局势混乱 胡锦涛之子升职落空  >-007fff?logoWidth=1" title="疫情下中南海局势混乱 胡锦涛之子升职落空  "></a><br>
@@ -49,11 +50,11 @@
 <a href="https://github.com/tzygt247/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984505.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/组图：湖北返北京人员遭最严监管       >-007fff?logoWidth=1" title="组图：湖北返北京人员遭最严监管  "></a><br>
+<a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/29/n11984866.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/每日三退声明精选（2020/03/28）  >-007fff?logoWidth=1" title="每日三退声明精选（2020/03/28）  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/29/n11984650.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/WHO专家受访 装聋拒谈台湾 网友哗然   >-007fff?logoWidth=1" title="WHO专家受访 装聋拒谈台湾 网友哗然  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984494.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美国航母向越南散毒？ 中共甩锅谣言再起   >-007fff?logoWidth=1" title="美国航母向越南散毒？ 中共甩锅谣言再起  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/27/n11980471.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（2）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（2）  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984334.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国真的零确诊？“黄安躲在台湾”打脸中共  >-007fff?logoWidth=1" title="中国真的零确诊？“黄安躲在台湾”打脸中共  "></a><br>
-<a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984181.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/组图：疫情下北京时尚场所冷清 乏人问津   >-007fff?logoWidth=1" title="组图：疫情下北京时尚场所冷清 乏人问津  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984042.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共封关3目的 湖北人仍受歧视       >-007fff?logoWidth=1" title="中共封关3目的 湖北人仍受歧视  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984358.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/停北京等20城自营业务 “途家”民宿断臂求生>-007fff?logoWidth=1" title="停北京等20城自营业务 “途家”民宿断臂求生  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11984349.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共借疫情割韭菜              >-007fff?logoWidth=1" title="中共借疫情割韭菜  "></a><br>
@@ -67,7 +68,6 @@
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11983686.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/检察院多次退卷 长春十多位法轮功学员仍被关 >-007fff?logoWidth=1" title="检察院多次退卷 长春十多位法轮功学员仍被关  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11983661.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/张文宏：人类史上没见过这么诡异的病毒    >-007fff?logoWidth=1" title="张文宏：人类史上没见过这么诡异的病毒  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11983408.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3.28疫情追踪：全球确诊逾六十万     >-007fff?logoWidth=1" title="3.28疫情追踪：全球确诊逾六十万  "></a><br>
-<a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11983318.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/深圳湾航道疏浚工程环评涉抄袭 网友嘲讽   >-007fff?logoWidth=1" title="深圳湾航道疏浚工程环评涉抄袭 网友嘲讽  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/26/n11977814.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（1）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（1）  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/27/n11981483.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川习通话 美专家：提供支持 做比说强    >-007fff?logoWidth=1" title="川习通话 美专家：提供支持 做比说强  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/27/n11981532.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/不只江西拒湖北人 安徽也加入        >-007fff?logoWidth=1" title="不只江西拒湖北人 安徽也加入  "></a><br>
@@ -77,7 +77,7 @@
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/18/n11949658.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/留学生回国被隔离在简陋宿舍         >-007fff?logoWidth=1" title="留学生回国被隔离在简陋宿舍  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/17/n11947141.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/视频：中共长征七号改中型运载火箭首发失败  >-007fff?logoWidth=1" title="视频：中共长征七号改中型运载火箭首发失败  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/17/n11946908.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/贵州毕节开学 学生入学被搜身        >-007fff?logoWidth=1" title="贵州毕节开学 学生入学被搜身  "></a><br>
-<a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11982683.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北江西爆冲突后 联合发布公告撤防疫点   >-007fff?logoWidth=1" title="湖北江西爆冲突后 联合发布公告撤防疫点  "></a><br>
+<a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11983318.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/深圳湾航道疏浚工程环评涉抄袭 网友嘲讽   >-007fff?logoWidth=1" title="深圳湾航道疏浚工程环评涉抄袭 网友嘲讽  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11982994.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情重创楼市 大陆房企藉优化为由欠薪裁员  >-007fff?logoWidth=1" title="疫情重创楼市 大陆房企藉优化为由欠薪裁员  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11982860.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/福布斯：中共肺炎重创中国经济甚过萨斯    >-007fff?logoWidth=1" title="福布斯：中共肺炎重创中国经济甚过萨斯  "></a><br>
 <a href="https://github.com/tzygt247/djy/blob/master/gb/20/3/28/n11982332.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/野村证券：病毒肆虐全球或致大陆1800万人失>-007fff?logoWidth=1" title="野村证券：病毒肆虐全球或致大陆1800万人失业  "></a><br>
@@ -467,8 +467,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/tzygt247/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/tzygt247/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/tzygt247/www/master/?h">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/tzygt247/www/blob/master/README.md?r#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/tzygt247/www/blob/master/README.md?a%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/tzygt247/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/tzygt247/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/tzygt247/www/master/?v">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/tzygt247/www/blob/master/README.md?x#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/tzygt247/www/blob/master/README.md?a%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/acccc">git.io/acccc</a></div>
+<div align="center">短网址: <a href="https://git.io/d8888">git.io/d8888</a></div>
 
