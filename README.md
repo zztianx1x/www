@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/roxfi2557/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/roxfi2557/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/roxfi2557/www/master/?m">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/rrrrrrr">git.io/rrrrrrr</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/3332">x.co/3332</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/roxfi2557/www/master/?d">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/rrrrrr">git.io/rrrrrr</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/hhii">x.co/hhii</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -43,6 +43,8 @@
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11978986.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北解封 专家：世人不信疫情“得到控制”  >-007fff?logoWidth=1" title="湖北解封 专家：世人不信疫情“得到控制”  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/25/n11973385.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/雷神山医院建设工人被隔离一个多月 上网求救 >-007fff?logoWidth=1" title="雷神山医院建设工人被隔离一个多月 上网求救  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
+<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811275.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/与钟南山不同调 张文宏:最大风险是无症状感染>-007fff?logoWidth=1" title="与钟南山不同调 张文宏:最大风险是无症状感染者  "></a><br>
+<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811279.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/上海出事了？东方明珠等开放18天后重新关闭 >-007fff?logoWidth=1" title="上海出事了？东方明珠等开放18天后重新关闭  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811268.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共输出口罩再曝劣质 荷兰下令回收及停用  >-007fff?logoWidth=1" title="中共输出口罩再曝劣质 荷兰下令回收及停用  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811265.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美拟新规限制芯片 华为“芯病”或致命    >-007fff?logoWidth=1" title="美拟新规限制芯片 华为“芯病”或致命  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811235.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全美6万医护自发援纽约 “捷蓝”航空免费送 >-007fff?logoWidth=1" title="全美6万医护自发援纽约 “捷蓝”航空免费送  "></a><br>
@@ -64,10 +66,10 @@
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986300.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/刚开张 上海景区、全国影院再度关闭     >-007fff?logoWidth=1" title="刚开张 上海景区、全国影院再度关闭  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985367.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/13年冤狱惨遭折磨 原营职军医赵成林离世  >-007fff?logoWidth=1" title="13年冤狱惨遭折磨 原营职军医赵成林离世  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986026.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国问题专家：中共隐瞒疫情 又企图改头换面 >-007fff?logoWidth=1" title="中国问题专家：中共隐瞒疫情 又企图改头换面  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986123.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/英政府因中共隐瞒疫情要清算 或解约华为   >-007fff?logoWidth=1" title="英政府因中共隐瞒疫情要清算 或解约华为  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985983.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉多地再增确诊病例 中共持续造假     >-007fff?logoWidth=1" title="武汉多地再增确诊病例 中共持续造假  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986031.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美CBP没收中国制童装 中共不断输出劣质品 >-007fff?logoWidth=1" title="美CBP没收中国制童装 中共不断输出劣质品  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986146.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球首例双重感染者 冰岛现40种变异病毒  >-007fff?logoWidth=1" title="全球首例双重感染者 冰岛现40种变异病毒  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986123.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/英政府因中共隐瞒疫情要清算 或解约华为   >-007fff?logoWidth=1" title="英政府因中共隐瞒疫情要清算 或解约华为  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986074.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/专家：瘟疫大流行过后 世卫将被重新评估   >-007fff?logoWidth=1" title="专家：瘟疫大流行过后 世卫将被重新评估  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985804.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/“我是证据”德国富商从中共地狱中幸存（上） >-007fff?logoWidth=1" title="“我是证据”德国富商从中共地狱中幸存（上）  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985616.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/应对疫情 美国公司CEO纷纷放弃薪水    >-007fff?logoWidth=1" title="应对疫情 美国公司CEO纷纷放弃薪水  "></a><br>
@@ -474,8 +476,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/roxfi2557/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/roxfi2557/www/master/?d">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/roxfi2557/www/blob/master/README.md?e#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/roxfi2557/www/blob/master/README.md?p%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/roxfi2557/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/roxfi2557/www/master/?n">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/roxfi2557/www/blob/master/README.md?r#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/roxfi2557/www/blob/master/README.md?x%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/rrrrrrr">git.io/rrrrrrr</a></div>
+<div align="center">短网址: <a href="https://git.io/rrrrrr">git.io/rrrrrr</a></div>
 
