@@ -9,41 +9,41 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/roxfi2557/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/roxfi2557/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/roxfi2557/www/master/?t">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ebbbb">git.io/ebbbb</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/ydd">x.co/ydd</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/roxfi2557/www/master/?s">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/eeeeeeee">git.io/eeeeeeee</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/ndd">x.co/ndd</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985031.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/留英学生回国住天津隔离旅馆 床铺现血尿迹  >-007fff?logoWidth=1" title="留英学生回国住天津隔离旅馆 床铺现血尿迹  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11984729.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从中国进口130万缺陷口罩 荷兰停用并召回 >-007fff?logoWidth=1" title="从中国进口130万缺陷口罩 荷兰停用并召回  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/28/n11983805.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共专家首次披露武汉封城始末 泄何秘密？  >-007fff?logoWidth=1" title="中共专家首次披露武汉封城始末 泄何秘密？  "></a><br>
+<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810881.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中央对地方权威下坠 党内反习势力集结 习日子>-007fff?logoWidth=1" title="中央对地方权威下坠 党内反习势力集结 习日子很难过  "></a><br>
+<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811064.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/夏小强：中国面临疫情再次爆发 民众需自救  >-007fff?logoWidth=1" title="夏小强：中国面临疫情再次爆发 民众需自救  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986300.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/刚开张 上海景区、全国影院再度关闭     >-007fff?logoWidth=1" title="刚开张 上海景区、全国影院再度关闭  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986125.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/劣质口罩与试剂盒 再重创中共国际“形象”  >-007fff?logoWidth=1" title="劣质口罩与试剂盒 再重创中共国际“形象”  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811122.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/外交部大实话：要中共赔偿呼声渐起 甩锅不成战>-007fff?logoWidth=1" title="外交部大实话：要中共赔偿呼声渐起 甩锅不成战狼转向  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102810989.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北江西警察大战 4大信号冲击北京     >-007fff?logoWidth=1" title="湖北江西警察大战 4大信号冲击北京  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11984851.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒全球入侵图的警示          >-007fff?logoWidth=1" title="中共病毒全球入侵图的警示  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/28/n11983864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉为何用垃圾车运菜肉           >-007fff?logoWidth=1" title="武汉为何用垃圾车运菜肉  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11980941.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/方方日记终篇：极左是病毒          >-007fff?logoWidth=1" title="方方日记终篇：极左是病毒  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986417.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/殡葬工自述 一个火葬场1天烧110具    >-007fff?logoWidth=1" title="殡葬工自述 一个火葬场1天烧110具  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811032.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/不是病毒源头？华南海鲜市场人员录音曝光   >-007fff?logoWidth=1" title="不是病毒源头？华南海鲜市场人员录音曝光  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/19/a102803661.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/川普问习敏感问题/金正恩乘疫捣“弹”    >-007fff?logoWidth=1" title="川普问习敏感问题/金正恩乘疫捣“弹”  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11980618.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西湖北公安混战 掀翻警车         >-007fff?logoWidth=1" title="江西湖北公安混战 掀翻警车  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985565.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北天门南站现重症病人           >-007fff?logoWidth=1" title="湖北天门南站现重症病人  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11978663.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代转发建议书吁高层问责         >-007fff?logoWidth=1" title="红二代转发建议书吁高层问责  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985909.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大连街头再现人倒地不起           >-007fff?logoWidth=1" title="大连街头再现人倒地不起  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102810990.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/西安地铁站百元大钞散落一地 无人敢捡！(视频>-007fff?logoWidth=1" title="西安地铁站百元大钞散落一地 无人敢捡！(视频)  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811162.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/骨灰盒泄密 川普问习敏感细节        >-007fff?logoWidth=1" title="骨灰盒泄密 川普问习敏感细节  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/28/n11984038.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共大外宣进军推特 盗号及造假账号配合   >-007fff?logoWidth=1" title="中共大外宣进军推特 盗号及造假账号配合  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985303.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/解封后 湖北人入境它省遭拒引热议      >-007fff?logoWidth=1" title="解封后 湖北人入境它省遭拒引热议  "></a><br>
-<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811152.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/党内反习势力集结 习日子很难过       >-007fff?logoWidth=1" title="党内反习势力集结 习日子很难过  "></a><br>
-<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811044.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/数千湖北人返黔遭隔离：看到42开头身份证，吓>-007fff?logoWidth=1" title="数千湖北人返黔遭隔离：看到42开头身份证，吓死了  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985909.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大连街头再现人倒地不起           >-007fff?logoWidth=1" title="大连街头再现人倒地不起  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985565.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北天门南站现重症病人           >-007fff?logoWidth=1" title="湖北天门南站现重症病人  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/28/n11982310.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共军方研发病毒疫苗背后的四大质疑     >-007fff?logoWidth=1" title="中共军方研发病毒疫苗背后的四大质疑  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11980941.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/方方日记终篇：极左是病毒          >-007fff?logoWidth=1" title="方方日记终篇：极左是病毒  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985303.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/解封后 湖北人入境它省遭拒引热议      >-007fff?logoWidth=1" title="解封后 湖北人入境它省遭拒引热议  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11980471.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（2）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（2）  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/27/n11978663.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代转发建议书吁高层问责         >-007fff?logoWidth=1" title="红二代转发建议书吁高层问责  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
+<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811323.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/地狱景象：网络热传《武汉殡葬工自述》    >-007fff?logoWidth=1" title="地狱景象：网络热传《武汉殡葬工自述》  "></a><br>
+<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811335.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/张文宏：新冠病毒最毒 且很可能源于武汉   >-007fff?logoWidth=1" title="张文宏：新冠病毒最毒 且很可能源于武汉  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810577.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3.29美国政府每日疫情发布会（中文同声翻译>-007fff?logoWidth=1" title="3.29美国政府每日疫情发布会（中文同声翻译）  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811275.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/与钟南山不同调 张文宏:最大风险是无症状感染>-007fff?logoWidth=1" title="与钟南山不同调 张文宏:最大风险是无症状感染者  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811279.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/上海出事了？东方明珠等开放18天后重新关闭 >-007fff?logoWidth=1" title="上海出事了？东方明珠等开放18天后重新关闭  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811268.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共输出口罩再曝劣质 荷兰下令回收及停用  >-007fff?logoWidth=1" title="中共输出口罩再曝劣质 荷兰下令回收及停用  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811265.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美拟新规限制芯片 华为“芯病”或致命    >-007fff?logoWidth=1" title="美拟新规限制芯片 华为“芯病”或致命  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/29/a102811235.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全美6万医护自发援纽约 “捷蓝”航空免费送 >-007fff?logoWidth=1" title="全美6万医护自发援纽约 “捷蓝”航空免费送  "></a><br>
-<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810881.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中央对地方权威下坠 党内反习势力集结 习日子>-007fff?logoWidth=1" title="中央对地方权威下坠 党内反习势力集结 习日子很难过  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810406.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共外交部发言人应聘 恶搞对白笑翻众网友(视>-007fff?logoWidth=1" title="中共外交部发言人应聘 恶搞对白笑翻众网友(视频)  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810649.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/江西湖北警民开战 中共军机不断出动 台海诡谲>-007fff?logoWidth=1" title="江西湖北警民开战 中共军机不断出动 台海诡谲 将有一战？  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810821.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/《石涛聚焦》奇特事实：美国疫情最严重10个州>-007fff?logoWidth=1" title="《石涛聚焦》奇特事实：美国疫情最严重10个州 民主党分摊8个半 感染者的80 过世者75  "></a><br>
@@ -53,20 +53,18 @@
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986650.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉检测数据中的监狱无名氏         >-007fff?logoWidth=1" title="武汉检测数据中的监狱无名氏  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986241.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3·29美国疫情发布会 确诊近14万    >-007fff?logoWidth=1" title="3·29美国疫情发布会 确诊近14万  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986596.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/菲华商富豪染疫去世 华人恐慌 陆严防偷渡  >-007fff?logoWidth=1" title="菲华商富豪染疫去世 华人恐慌 陆严防偷渡  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986650.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉检测数据中的监狱无名氏         >-007fff?logoWidth=1" title="武汉检测数据中的监狱无名氏  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986412.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/外国人隔离享受超国民待遇 引发中国人不满  >-007fff?logoWidth=1" title="外国人隔离享受超国民待遇 引发中国人不满  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986317.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒正令全球警惕“中国制造”危机    >-007fff?logoWidth=1" title="中共病毒正令全球警惕“中国制造”危机  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986498.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/汤姆·汉克斯返美后首发声：继续在家自我隔离 >-007fff?logoWidth=1" title="汤姆·汉克斯返美后首发声：继续在家自我隔离  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11984622.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒蔓延 外媒：依赖中国供应链很危险  >-007fff?logoWidth=1" title="中共病毒蔓延 外媒：依赖中国供应链很危险  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986242.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/亲共避谈台湾防疫奇迹 世卫官员遭杜汶泽痛批 >-007fff?logoWidth=1" title="亲共避谈台湾防疫奇迹 世卫官员遭杜汶泽痛批  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986435.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情下的中国经济 面临五大危机       >-007fff?logoWidth=1" title="疫情下的中国经济 面临五大危机  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986417.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/殡葬工自述 一个火葬场1天烧110具    >-007fff?logoWidth=1" title="殡葬工自述 一个火葬场1天烧110具  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986525.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/黄店老板Gary亲历721 不再政治冷感  >-007fff?logoWidth=1" title="黄店老板Gary亲历721 不再政治冷感  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986125.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/劣质口罩与试剂盒 再重创中共国际“形象”  >-007fff?logoWidth=1" title="劣质口罩与试剂盒 再重创中共国际“形象”  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986358.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大疫下 政法委下令迫害法轮功 骚扰绑架多人 >-007fff?logoWidth=1" title="大疫下 政法委下令迫害法轮功 骚扰绑架多人  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/澳洲议员：我们永远不应该再相信中共     >-007fff?logoWidth=1" title="澳洲议员：我们永远不应该再相信中共  "></a><br>
-<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986300.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/刚开张 上海景区、全国影院再度关闭     >-007fff?logoWidth=1" title="刚开张 上海景区、全国影院再度关闭  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985367.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/13年冤狱惨遭折磨 原营职军医赵成林离世  >-007fff?logoWidth=1" title="13年冤狱惨遭折磨 原营职军医赵成林离世  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986026.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国问题专家：中共隐瞒疫情 又企图改头换面 >-007fff?logoWidth=1" title="中国问题专家：中共隐瞒疫情 又企图改头换面  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986123.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/英政府因中共隐瞒疫情要清算 或解约华为   >-007fff?logoWidth=1" title="英政府因中共隐瞒疫情要清算 或解约华为  "></a><br>
@@ -75,6 +73,7 @@
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986146.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球首例双重感染者 冰岛现40种变异病毒  >-007fff?logoWidth=1" title="全球首例双重感染者 冰岛现40种变异病毒  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11986074.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/专家：瘟疫大流行过后 世卫将被重新评估   >-007fff?logoWidth=1" title="专家：瘟疫大流行过后 世卫将被重新评估  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985804.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/“我是证据”德国富商从中共地狱中幸存（上） >-007fff?logoWidth=1" title="“我是证据”德国富商从中共地狱中幸存（上）  "></a><br>
+<a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11984851.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒全球入侵图的警示          >-007fff?logoWidth=1" title="中共病毒全球入侵图的警示  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985616.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/应对疫情 美国公司CEO纷纷放弃薪水    >-007fff?logoWidth=1" title="应对疫情 美国公司CEO纷纷放弃薪水  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985446.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/北京市顺义区双丰街道1.7级地震      >-007fff?logoWidth=1" title="北京市顺义区双丰街道1.7级地震  "></a><br>
 <a href="https://github.com/roxfi2557/djy/blob/master/gb/20/3/29/n11985345.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/云南15岁少女拒绝卖淫跳楼受重伤      >-007fff?logoWidth=1" title="云南15岁少女拒绝卖淫跳楼受重伤  "></a><br>
@@ -472,8 +471,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/roxfi2557/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/roxfi2557/www/master/?j">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/roxfi2557/www/blob/master/README.md?w#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/roxfi2557/www/blob/master/README.md?r%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/roxfi2557/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/roxfi2557/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/roxfi2557/www/master/?i">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/roxfi2557/www/blob/master/README.md?z#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/roxfi2557/www/blob/master/README.md?s%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/ebbbb">git.io/ebbbb</a></div>
+<div align="center">短网址: <a href="https://git.io/eeeeeeee">git.io/eeeeeeee</a></div>
 
