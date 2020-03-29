@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/dbrscq2476/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/dbrscq2476/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/dbrscq2476/www/master/?p">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/yyyyy">git.io/yyyyy</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/3555">x.co/3555</a><br>  
+<p><details><summary>个别浏览器打不开或没显示图片，请刷新一下，或者用<a href="https://raw.githack.com/dbrscq2476/www/master/?s">高速版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/pppppppp">git.io/pppppppp</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/3pp">x.co/3pp</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -18,10 +18,10 @@
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11985031.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/留英学生回国住天津隔离旅馆 床铺现血尿迹  >-007fff?logoWidth=1" title="留英学生回国住天津隔离旅馆 床铺现血尿迹  "></a><br>
 <a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/2020/03/29/a102811064.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/夏小强：中国面临疫情再次爆发 民众需自救  >-007fff?logoWidth=1" title="夏小强：中国面临疫情再次爆发 民众需自救  "></a><br>
 <a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/2020/03/29/a102810930.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/25岁贵州女在美产双子返国 家门被贴封条  >-007fff?logoWidth=1" title="25岁贵州女在美产双子返国 家门被贴封条  "></a><br>
-<a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984729.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从中国进口一百三十万缺陷口罩 荷兰停用并召回>-007fff?logoWidth=1" title="从中国进口一百三十万缺陷口罩 荷兰停用并召回  "></a><br>
+<a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984729.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从中国进口130万缺陷口罩 荷兰停用并召回 >-007fff?logoWidth=1" title="从中国进口130万缺陷口罩 荷兰停用并召回  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984851.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒全球入侵图的警示          >-007fff?logoWidth=1" title="中共病毒全球入侵图的警示  "></a><br>
 <a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/2020/03/28/a102810406.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共外交部发言人应聘 恶搞对白笑翻众网友(视>-007fff?logoWidth=1" title="中共外交部发言人应聘 恶搞对白笑翻众网友(视频)  "></a><br>
-<a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/2020/03/29/a102811118.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/【时事小品】赵妈粥店            >-007fff?logoWidth=1" title="【时事小品】赵妈粥店  "></a><br>
+<a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/2020/03/29/a102811101.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/袁斌：一个中共病毒死者家属的控诉      >-007fff?logoWidth=1" title="袁斌：一个中共病毒死者家属的控诉  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/28/n11983977.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/给医护送饭的大律师             >-007fff?logoWidth=1" title="给医护送饭的大律师  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/27/n11981644.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/微信过滤疫情敏感信息 海外华人被“隐形”  >-007fff?logoWidth=1" title="微信过滤疫情敏感信息 海外华人被“隐形”  "></a><br>
 <a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/2020/03/28/a102810821.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/《石涛聚焦》奇特事实：美国疫情最严重10个州>-007fff?logoWidth=1" title="《石涛聚焦》奇特事实：美国疫情最严重10个州 民主党分摊8个半 感染者的80 过世者75  "></a><br>
@@ -33,6 +33,7 @@
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/27/n11978663.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代转发建议书吁高层问责         >-007fff?logoWidth=1" title="红二代转发建议书吁高层问责  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/28/n11984042.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共封关3目的 湖北人仍受歧视       >-007fff?logoWidth=1" title="中共封关3目的 湖北人仍受歧视  "></a><br>
+<a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984729.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从中国进口一百三十万缺陷口罩 荷兰停用并召回>-007fff?logoWidth=1" title="从中国进口一百三十万缺陷口罩 荷兰停用并召回  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/28/n11984181.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/组图：疫情下北京时尚场所冷清 乏人问津   >-007fff?logoWidth=1" title="组图：疫情下北京时尚场所冷清 乏人问津  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/28/n11982118.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/赣鄂警察冲突 4大挑战冲击中共       >-007fff?logoWidth=1" title="赣鄂警察冲突 4大挑战冲击中共  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/27/n11978986.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北解封 专家：世人不信疫情“得到控制”  >-007fff?logoWidth=1" title="湖北解封 专家：世人不信疫情“得到控制”  "></a><br>
@@ -56,7 +57,6 @@
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11985201.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/黄国才：政治化促发创作 记录时代      >-007fff?logoWidth=1" title="黄国才：政治化促发创作 记录时代  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984894.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/惠誉：陆银不良贷款将恶化 中共欲发特别国债 >-007fff?logoWidth=1" title="惠誉：陆银不良贷款将恶化 中共欲发特别国债  "></a><br>
-<a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984729.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从中国进口130万缺陷口罩 荷兰停用并召回 >-007fff?logoWidth=1" title="从中国进口130万缺陷口罩 荷兰停用并召回  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984866.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/每日三退声明精选（2020/03/28）  >-007fff?logoWidth=1" title="每日三退声明精选（2020/03/28）  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/28/n11984505.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/组图：湖北返北京人员遭最严监管       >-007fff?logoWidth=1" title="组图：湖北返北京人员遭最严监管  "></a><br>
 <a href="https://github.com/dbrscq2476/djy/blob/master/gb/20/3/29/n11984650.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/WHO专家受访 装聋拒谈台湾 网友哗然   >-007fff?logoWidth=1" title="WHO专家受访 装聋拒谈台湾 网友哗然  "></a><br>
@@ -473,8 +473,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/dbrscq2476/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/dbrscq2476/www/master/?w">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/dbrscq2476/www/blob/master/README.md?e#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/dbrscq2476/www/blob/master/README.md?f%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/dbrscq2476/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/dbrscq2476/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/dbrscq2476/www/master/?h">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/dbrscq2476/www/blob/master/README.md?p#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/dbrscq2476/www/blob/master/README.md?m%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/yyyyy">git.io/yyyyy</a></div>
+<div align="center">短网址: <a href="https://git.io/pppppppp">git.io/pppppppp</a></div>
 
