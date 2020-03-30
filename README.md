@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/gyrzc287/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/gyrzc287/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/gyrzc287/www/master/?s">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/rrrrrrrr">git.io/rrrrrrrr</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/npp">x.co/npp</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/gyrzc287/www/master/?j">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ddddddd">git.io/ddddddd</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/pqp">x.co/pqp</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -46,7 +46,6 @@
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/30/a102811415.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/传任志强因绝食致心脏衰竭 被紧急送院抢救  >-007fff?logoWidth=1" title="传任志强因绝食致心脏衰竭 被紧急送院抢救  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811319.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/党媒称美国专家证武汉非病毒源头 被揭翻译造假>-007fff?logoWidth=1" title="党媒称美国专家证武汉非病毒源头 被揭翻译造假  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811323.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/地狱景象：网络热传《武汉殡葬工自述》    >-007fff?logoWidth=1" title="地狱景象：网络热传《武汉殡葬工自述》  "></a><br>
-<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811335.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/张文宏：新冠病毒最毒 且很可能源于武汉   >-007fff?logoWidth=1" title="张文宏：新冠病毒最毒 且很可能源于武汉  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811044.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/数千湖北人返黔遭隔离：看到42开头身份证，吓>-007fff?logoWidth=1" title="数千湖北人返黔遭隔离：看到42开头身份证，吓死了  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811032.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/不是病毒源头？华南海鲜市场人员录音曝光   >-007fff?logoWidth=1" title="不是病毒源头？华南海鲜市场人员录音曝光  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
@@ -54,6 +53,7 @@
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986783.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大华银行：人民币兑美元第三季会跌至7.25 >-007fff?logoWidth=1" title="大华银行：人民币兑美元第三季会跌至7.25  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/30/n11987032.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/驻英代表投书经济学人：台湾防疫远胜中共   >-007fff?logoWidth=1" title="驻英代表投书经济学人：台湾防疫远胜中共  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/30/n11986801.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球多国自保禁粮出口 大陆将现粮食危机   >-007fff?logoWidth=1" title="全球多国自保禁粮出口 大陆将现粮食危机  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986675.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/精液有病毒 中共肺炎或可性传播       >-007fff?logoWidth=1" title="精液有病毒 中共肺炎或可性传播  "></a><br>
@@ -469,8 +469,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/gyrzc287/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/gyrzc287/www/master/?v">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/gyrzc287/www/blob/master/README.md?p#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/gyrzc287/www/blob/master/README.md?i%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/gyrzc287/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/gyrzc287/www/master/?c">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/gyrzc287/www/blob/master/README.md?t#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/gyrzc287/www/blob/master/README.md?q%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/rrrrrrrr">git.io/rrrrrrrr</a></div>
+<div align="center">短网址: <a href="https://git.io/ddddddd">git.io/ddddddd</a></div>
 
