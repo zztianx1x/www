@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/gyrzc287/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/gyrzc287/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/gyrzc287/www/master/?r">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/nnnnnnnn">git.io/nnnnnnnn</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/pp7">x.co/pp7</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/gyrzc287/www/master/?i">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/cuuuu">git.io/cuuuu</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/qdd">x.co/qdd</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -50,12 +50,12 @@
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102810990.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/西安地铁站百元大钞散落一地 无人敢捡！(视频>-007fff?logoWidth=1" title="西安地铁站百元大钞散落一地 无人敢捡！(视频)  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
+<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810776.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共造谣病毒来自美国航母 被揭漏洞百出（视频>-007fff?logoWidth=1" title="中共造谣病毒来自美国航母 被揭漏洞百出（视频）  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/30/n11986801.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球多国自保禁粮出口 大陆将现粮食危机   >-007fff?logoWidth=1" title="全球多国自保禁粮出口 大陆将现粮食危机  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986675.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/精液有病毒 中共肺炎或可性传播       >-007fff?logoWidth=1" title="精液有病毒 中共肺炎或可性传播  "></a><br>
-<a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11984627.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/法学家：病毒流行对中共追责 可索赔万亿   >-007fff?logoWidth=1" title="法学家：病毒流行对中共追责 可索赔万亿  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986241.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3·29美国疫情发布会 确诊近14万    >-007fff?logoWidth=1" title="3·29美国疫情发布会 确诊近14万  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986650.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉检测数据中的监狱无名氏         >-007fff?logoWidth=1" title="武汉检测数据中的监狱无名氏  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986498.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/汤姆·汉克斯返美后首发声：继续在家自我隔离 >-007fff?logoWidth=1" title="汤姆·汉克斯返美后首发声：继续在家自我隔离  "></a><br>
@@ -390,7 +390,7 @@
 <img src="https://raw.githubusercontent.com/gyrzc287/www/master/t/lh600.jpg"><br>
 
 
-<h1><p><strong>数点梅花天地春</strong></p></h1>
+<h1><p><strong>傲雪梅花</strong></p></h1>
 </div>
 
 <details><summary align="center"><p align="center"><strong>历史的见证::pencil:</strong></p></summary>
@@ -467,8 +467,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/gyrzc287/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/gyrzc287/www/master/?f">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/gyrzc287/www/blob/master/README.md?v#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/gyrzc287/www/blob/master/README.md?f%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/gyrzc287/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/gyrzc287/www/master/?g">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/gyrzc287/www/blob/master/README.md?o#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/gyrzc287/www/blob/master/README.md?f%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/nnnnnnnn">git.io/nnnnnnnn</a></div>
+<div align="center">短网址: <a href="https://git.io/cuuuu">git.io/cuuuu</a></div>
 
