@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/lblryx220/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/lblryx220/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/lblryx220/www/master/?f">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ppppppp">git.io/ppppppp</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/388">x.co/388</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/lblryx220/www/master/?o">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/cyyyy">git.io/cyyyy</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/npp">x.co/npp</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -34,21 +34,27 @@
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11987697.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/程晓容：中共产品危害世界 劣质口罩是缩影  >-007fff?logoWidth=1" title="程晓容：中共产品危害世界 劣质口罩是缩影  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/澳洲议员：我们永远不应该再相信中共     >-007fff?logoWidth=1" title="澳洲议员：我们永远不应该再相信中共  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/19/12/3/n11698317.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/极左分子如何将美国制度极端化？       >-007fff?logoWidth=1" title="极左分子如何将美国制度极端化？  "></a><br>
+<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985565.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北天门南站现重症病人           >-007fff?logoWidth=1" title="湖北天门南站现重症病人  "></a><br>
+<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985909.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大连街头再现人倒地不起           >-007fff?logoWidth=1" title="大连街头再现人倒地不起  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811677.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/政治形势不妙？中共“抄作业”突然销声    >-007fff?logoWidth=1" title="政治形势不妙？中共“抄作业”突然销声  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811476.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/用羟氯喹等治愈699例 纽约一医生成功率10>-007fff?logoWidth=1" title="用羟氯喹等治愈699例 纽约一医生成功率100  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811748.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北人持“绿码” 入甘肃被确诊       >-007fff?logoWidth=1" title="湖北人持“绿码” 入甘肃被确诊  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811584.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖南列车脱轨 多节车厢翻覆 车头起火(视频)>-007fff?logoWidth=1" title="湖南列车脱轨 多节车厢翻覆 车头起火(视频)  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811543.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉幸存者：手捧的骨灰在催我追责      >-007fff?logoWidth=1" title="武汉幸存者：手捧的骨灰在催我追责  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810577.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3.29美国政府每日疫情发布会（中文同声翻译>-007fff?logoWidth=1" title="3.29美国政府每日疫情发布会（中文同声翻译）  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811279.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/上海出事了？东方明珠等开放18天后重新关闭 >-007fff?logoWidth=1" title="上海出事了？东方明珠等开放18天后重新关闭  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811275.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/与钟南山不同调 张文宏:最大风险是无症状感染>-007fff?logoWidth=1" title="与钟南山不同调 张文宏:最大风险是无症状感染者  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811268.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共输出口罩再曝劣质 荷兰下令回收及停用  >-007fff?logoWidth=1" title="中共输出口罩再曝劣质 荷兰下令回收及停用  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811265.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美拟新规限制芯片 华为“芯病”或致命    >-007fff?logoWidth=1" title="美拟新规限制芯片 华为“芯病”或致命  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811235.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全美6万医护自发援纽约 “捷蓝”航空免费送 >-007fff?logoWidth=1" title="全美6万医护自发援纽约 “捷蓝”航空免费送  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
-<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810776.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共造谣病毒来自美国航母 被揭漏洞百出（视频>-007fff?logoWidth=1" title="中共造谣病毒来自美国航母 被揭漏洞百出（视频）  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
-<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11988466.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情难阻乐团“合奏”贝多芬名曲 表演爆红网络>-007fff?logoWidth=1" title="疫情难阻乐团“合奏”贝多芬名曲 表演爆红网络  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11988750.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/四川凉山再起山火 火光冲天         >-007fff?logoWidth=1" title="四川凉山再起山火 火光冲天  "></a><br>
+<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11988466.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情难阻乐团“合奏”贝多芬名曲 表演爆红网络>-007fff?logoWidth=1" title="疫情难阻乐团“合奏”贝多芬名曲 表演爆红网络  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11988381.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3.30疫情追踪：医院摆满尸袋 川普不安  >-007fff?logoWidth=1" title="3.30疫情追踪：医院摆满尸袋 川普不安  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11988026.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/A股三大股指齐跌 深成指跌下万点关口    >-007fff?logoWidth=1" title="A股三大股指齐跌 深成指跌下万点关口  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11987542.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/多国禁止粮食出口 港媒：大陆粮食不够用   >-007fff?logoWidth=1" title="多国禁止粮食出口 港媒：大陆粮食不够用  "></a><br>
@@ -469,8 +475,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/lblryx220/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/lblryx220/www/master/?z">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/lblryx220/www/blob/master/README.md?k#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lblryx220/www/blob/master/README.md?d%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/lblryx220/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/lblryx220/www/master/?d">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/lblryx220/www/blob/master/README.md?h#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lblryx220/www/blob/master/README.md?q%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/ppppppp">git.io/ppppppp</a></div>
+<div align="center">短网址: <a href="https://git.io/cyyyy">git.io/cyyyy</a></div>
 
