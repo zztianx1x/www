@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/gyrzc287/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/gyrzc287/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/gyrzc287/www/master/?j">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ddddddd">git.io/ddddddd</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/pqp">x.co/pqp</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/gyrzc287/www/master/?t">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/btttt">git.io/btttt</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/j88">x.co/j88</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -36,6 +36,7 @@
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986412.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/外国人隔离享受超国民待遇 引发中国人不满  >-007fff?logoWidth=1" title="外国人隔离享受超国民待遇 引发中国人不满  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11985983.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉多地再增确诊病例 中共持续造假     >-007fff?logoWidth=1" title="武汉多地再增确诊病例 中共持续造假  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11986596.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/菲华商富豪染疫去世 华人恐慌 陆严防偷渡  >-007fff?logoWidth=1" title="菲华商富豪染疫去世 华人恐慌 陆严防偷渡  "></a><br>
+<a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11985031.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/留英学生回国住天津隔离旅馆 床铺现血尿迹  >-007fff?logoWidth=1" title="留英学生回国住天津隔离旅馆 床铺现血尿迹  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11984729.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从中国进口130万缺陷口罩 荷兰停用并召回 >-007fff?logoWidth=1" title="从中国进口130万缺陷口罩 荷兰停用并召回  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/28/n11984042.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共封关3目的 湖北人仍受歧视       >-007fff?logoWidth=1" title="中共封关3目的 湖北人仍受歧视  "></a><br>
 <a href="https://github.com/gyrzc287/djy/blob/master/gb/20/3/29/n11984851.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒全球入侵图的警示          >-007fff?logoWidth=1" title="中共病毒全球入侵图的警示  "></a><br>
@@ -46,8 +47,6 @@
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/30/a102811415.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/传任志强因绝食致心脏衰竭 被紧急送院抢救  >-007fff?logoWidth=1" title="传任志强因绝食致心脏衰竭 被紧急送院抢救  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811319.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/党媒称美国专家证武汉非病毒源头 被揭翻译造假>-007fff?logoWidth=1" title="党媒称美国专家证武汉非病毒源头 被揭翻译造假  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811323.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/地狱景象：网络热传《武汉殡葬工自述》    >-007fff?logoWidth=1" title="地狱景象：网络热传《武汉殡葬工自述》  "></a><br>
-<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811044.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/数千湖北人返黔遭隔离：看到42开头身份证，吓>-007fff?logoWidth=1" title="数千湖北人返黔遭隔离：看到42开头身份证，吓死了  "></a><br>
-<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/29/a102811032.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/不是病毒源头？华南海鲜市场人员录音曝光   >-007fff?logoWidth=1" title="不是病毒源头？华南海鲜市场人员录音曝光  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
 <a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
@@ -469,8 +468,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/gyrzc287/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/gyrzc287/www/master/?c">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/gyrzc287/www/blob/master/README.md?t#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/gyrzc287/www/blob/master/README.md?q%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/gyrzc287/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/gyrzc287/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/gyrzc287/www/master/?h">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/gyrzc287/www/blob/master/README.md?y#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/gyrzc287/www/blob/master/README.md?o%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/ddddddd">git.io/ddddddd</a></div>
+<div align="center">短网址: <a href="https://git.io/btttt">git.io/btttt</a></div>
 
