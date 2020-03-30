@@ -10,7 +10,7 @@
 <div align="center">
 <a target="_blank" href="https://github.com/lblryx220/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/lblryx220/www/master/t/www.jpg"></a><br>
 <p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/lblryx220/www/master/?s">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/gaaaa">git.io/gaaaa</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/uaa">x.co/uaa</a><br>  
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/dhhhh">git.io/dhhhh</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/kaa">x.co/kaa</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -38,11 +38,11 @@
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/27/n11980471.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共触目惊心的经济掠夺（2）        >-007fff?logoWidth=1" title="中共触目惊心的经济掠夺（2）  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/27/n11980941.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/方方日记终篇：极左是病毒          >-007fff?logoWidth=1" title="方方日记终篇：极左是病毒  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811615.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/小川普脸书贴“命运转盘” 嘲讽中共甩锅   >-007fff?logoWidth=1" title="小川普脸书贴“命运转盘” 嘲讽中共甩锅  "></a><br>
+<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811589.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/惊爆！习近平到访当天 武汉死2万多人    >-007fff?logoWidth=1" title="惊爆！习近平到访当天 武汉死2万多人  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811566.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代难躲瘟疫 副司令染疫离世       >-007fff?logoWidth=1" title="红二代难躲瘟疫 副司令染疫离世  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811504.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/知情人：武汉死了30万人！骨灰藏惊人内幕  >-007fff?logoWidth=1" title="知情人：武汉死了30万人！骨灰藏惊人内幕  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811468.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美新闻调查：中共如何利用推特进行宣传    >-007fff?logoWidth=1" title="美新闻调查：中共如何利用推特进行宣传  "></a><br>
-<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811420.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/黄国才：中共全球渗透 香港白色恐布泛滥   >-007fff?logoWidth=1" title="黄国才：中共全球渗透 香港白色恐布泛滥  "></a><br>
-<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/30/a102811451.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/习近平巡视复工再遇尴尬 上海三大地标突然关闭>-007fff?logoWidth=1" title="习近平巡视复工再遇尴尬 上海三大地标突然关闭  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811162.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/骨灰盒泄密 川普问习敏感细节        >-007fff?logoWidth=1" title="骨灰盒泄密 川普问习敏感细节  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/29/a102811122.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/外交部大实话：要中共赔偿呼声渐起 甩锅不成战>-007fff?logoWidth=1" title="外交部大实话：要中共赔偿呼声渐起 甩锅不成战狼转向  "></a><br>
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
@@ -475,8 +475,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/lblryx220/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/lblryx220/www/master/?t">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/lblryx220/www/blob/master/README.md?h#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lblryx220/www/blob/master/README.md?e%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/lblryx220/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/lblryx220/www/master/?u">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/lblryx220/www/blob/master/README.md?k#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lblryx220/www/blob/master/README.md?u%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/gaaaa">git.io/gaaaa</a></div>
+<div align="center">短网址: <a href="https://git.io/dhhhh">git.io/dhhhh</a></div>
 
