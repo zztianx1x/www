@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/lblryx220/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/lblryx220/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/lblryx220/www/master/?a">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/6666666">git.io/6666666</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/2228">x.co/2228</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/lblryx220/www/master/?q">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/mmmmmmm">git.io/mmmmmmm</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aax">x.co/aax</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -51,8 +51,10 @@
 <a href="https://github.com/lblryx220/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11987297.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共假冒自由亚洲电台推特账号搞大外宣    >-007fff?logoWidth=1" title="中共假冒自由亚洲电台推特账号搞大外宣  "></a><br>
+<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11987691.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/台湾新增8例 中共肺炎破300例 累计5死 >-007fff?logoWidth=1" title="台湾新增8例 中共肺炎破300例 累计5死  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11986601.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/传唐嫣产下龙凤胎 同剧女星回复两字证实   >-007fff?logoWidth=1" title="传唐嫣产下龙凤胎 同剧女星回复两字证实  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11987188.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/100多湖北乘客到青岛被强行拉走      >-007fff?logoWidth=1" title="100多湖北乘客到青岛被强行拉走  "></a><br>
+<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11986200.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情延烧 澳议员:和中共走得近的人最危险  >-007fff?logoWidth=1" title="疫情延烧 澳议员:和中共走得近的人最危险  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11986783.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大华银行：人民币兑美元第三季会跌至7.25 >-007fff?logoWidth=1" title="大华银行：人民币兑美元第三季会跌至7.25  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11987032.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/驻英代表投书经济学人：台湾防疫远胜中共   >-007fff?logoWidth=1" title="驻英代表投书经济学人：台湾防疫远胜中共  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/30/n11986801.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球多国自保禁粮出口 大陆将现粮食危机   >-007fff?logoWidth=1" title="全球多国自保禁粮出口 大陆将现粮食危机  "></a><br>
@@ -73,8 +75,8 @@
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/澳洲议员：我们永远不应该再相信中共     >-007fff?logoWidth=1" title="澳洲议员：我们永远不应该再相信中共  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11986300.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/刚开张 上海景区、全国影院再度关闭     >-007fff?logoWidth=1" title="刚开张 上海景区、全国影院再度关闭  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985367.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/13年冤狱惨遭折磨 原营职军医赵成林离世  >-007fff?logoWidth=1" title="13年冤狱惨遭折磨 原营职军医赵成林离世  "></a><br>
-<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11986026.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国问题专家：中共隐瞒疫情 又企图改头换面 >-007fff?logoWidth=1" title="中国问题专家：中共隐瞒疫情 又企图改头换面  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985804.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/“我是证据”德国富商从中共地狱中幸存（上） >-007fff?logoWidth=1" title="“我是证据”德国富商从中共地狱中幸存（上）  "></a><br>
+<a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11986026.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国问题专家：中共隐瞒疫情 又企图改头换面 >-007fff?logoWidth=1" title="中国问题专家：中共隐瞒疫情 又企图改头换面  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985616.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/应对疫情 美国公司CEO纷纷放弃薪水    >-007fff?logoWidth=1" title="应对疫情 美国公司CEO纷纷放弃薪水  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/29/n11985293.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/染疫隔离在家 英国首相致信国人       >-007fff?logoWidth=1" title="染疫隔离在家 英国首相致信国人  "></a><br>
 <a href="https://github.com/lblryx220/djy/blob/master/gb/20/3/28/n11983869.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/CDC主任：中共早期一直否定病毒会人传人  >-007fff?logoWidth=1" title="CDC主任：中共早期一直否定病毒会人传人  "></a><br>
@@ -470,8 +472,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/lblryx220/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/lblryx220/www/master/?g">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/lblryx220/www/blob/master/README.md?m#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lblryx220/www/blob/master/README.md?u%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/lblryx220/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/lblryx220/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/lblryx220/www/master/?a">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/lblryx220/www/blob/master/README.md?y#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/lblryx220/www/blob/master/README.md?l%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/6666666">git.io/6666666</a></div>
+<div align="center">短网址: <a href="https://git.io/mmmmmmm">git.io/mmmmmmm</a></div>
 
