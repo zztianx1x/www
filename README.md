@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/usaite2855/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/usaite2855/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?d">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/a2222">git.io/a2222</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/kaa">x.co/kaa</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?o">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/uuuuuuu">git.io/uuuuuuu</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/p3p">x.co/p3p</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -39,11 +39,12 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11987670.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北“健康码”受质疑 咸宁男子在兰州确诊  >-007fff?logoWidth=1" title="湖北“健康码”受质疑 咸宁男子在兰州确诊  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11985864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/澳洲议员：我们永远不应该再相信中共     >-007fff?logoWidth=1" title="澳洲议员：我们永远不应该再相信中共  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812384.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/四川森林大火直逼卫星发射中心 致19死3伤 >-007fff?logoWidth=1" title="四川森林大火直逼卫星发射中心 致19死3伤  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812306.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中南海进退两难：习近平促复工 李克强发预警 >-007fff?logoWidth=1" title="中南海进退两难：习近平促复工 李克强发预警  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812173.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/官掩疫情 “中共烂透了”          >-007fff?logoWidth=1" title="官掩疫情 “中共烂透了”  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812246.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/纽约为何成美国重灾区？尴尬了：世卫高管不敢提>-007fff?logoWidth=1" title="纽约为何成美国重灾区？尴尬了：世卫高管不敢提台湾（上）  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812274.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒有多诡异？五大迷团至今难倒专家   >-007fff?logoWidth=1" title="中共病毒有多诡异？五大迷团至今难倒专家  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812283.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从犹太人的黄标到中国人的黄码 歧视在大国的骄>-007fff?logoWidth=1" title="从犹太人的黄标到中国人的黄码 歧视在大国的骄狂中蔓延  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/29/a102810905.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/未加严防却避免了灾难性暴发 日本抗疫好运还会>-007fff?logoWidth=1" title="未加严防却避免了灾难性暴发 日本抗疫好运还会延续吗？  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811632.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/李克强紧急发声 /红二代染疫离世      >-007fff?logoWidth=1" title="李克强紧急发声 /红二代染疫离世  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811584.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖南列车脱轨 多节车厢翻覆 车头起火(视频)>-007fff?logoWidth=1" title="湖南列车脱轨 多节车厢翻覆 车头起火(视频)  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811615.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/小川普脸书贴“命运转盘” 嘲讽中共甩锅   >-007fff?logoWidth=1" title="小川普脸书贴“命运转盘” 嘲讽中共甩锅  "></a><br>
@@ -476,8 +477,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?l">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?a#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?f%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?m">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?y#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?p%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/a2222">git.io/a2222</a></div>
+<div align="center">短网址: <a href="https://git.io/uuuuuuu">git.io/uuuuuuu</a></div>
 
