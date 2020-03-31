@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/usaite2855/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/usaite2855/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?o">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bcccc">git.io/bcccc</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/xpp">x.co/xpp</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?i">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/acccc">git.io/acccc</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/pp3">x.co/pp3</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -21,15 +21,15 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989077.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/河南等多地无症状感染者成传播者 民众恐慌  >-007fff?logoWidth=1" title="河南等多地无症状感染者成传播者 民众恐慌  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11986596.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/菲华商富豪染疫去世 华人恐慌 陆严防偷渡  >-007fff?logoWidth=1" title="菲华商富豪染疫去世 华人恐慌 陆严防偷渡  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811677.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/政治形势不妙？中共“抄作业”突然销声    >-007fff?logoWidth=1" title="政治形势不妙？中共“抄作业”突然销声  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811504.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉人领骨灰爆出更惊人内幕         >-007fff?logoWidth=1" title="武汉人领骨灰爆出更惊人内幕  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812291.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共外交部耿爽离奇预言给习近平成功挖坑   >-007fff?logoWidth=1" title="中共外交部耿爽离奇预言给习近平成功挖坑  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989613.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/至清：2020年中国粮食面临天灾人祸    >-007fff?logoWidth=1" title="至清：2020年中国粮食面临天灾人祸  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11985921.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/“我是证据”德国富商从中共地狱中幸存（中） >-007fff?logoWidth=1" title="“我是证据”德国富商从中共地狱中幸存（中）  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812283.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从犹太人的黄标到中国人的黄码 歧视在大国的骄>-007fff?logoWidth=1" title="从犹太人的黄标到中国人的黄码 歧视在大国的骄狂中蔓延  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811997.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/追责中共！美国会众院高官:美中关系回不去了 >-007fff?logoWidth=1" title="追责中共！美国会众院高官:美中关系回不去了  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811504.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉人领骨灰爆出更惊人内幕         >-007fff?logoWidth=1" title="武汉人领骨灰爆出更惊人内幕  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11988425.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/持健康证仍确诊 民众没安全感        >-007fff?logoWidth=1" title="持健康证仍确诊 民众没安全感  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11986824.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆青年的心声：共产党下课         >-007fff?logoWidth=1" title="大陆青年的心声：共产党下课  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811997.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/追责中共！美国会众院高官:美中关系回不去了 >-007fff?logoWidth=1" title="追责中共！美国会众院高官:美中关系回不去了  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811849.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/保加利亚盲婆预言家 24年前预言中共病毒疫情>-007fff?logoWidth=1" title="保加利亚盲婆预言家 24年前预言中共病毒疫情  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811894.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/肺炎疫情 中共“口罩外交” 如何重塑“倒下的>-007fff?logoWidth=1" title="肺炎疫情 中共“口罩外交” 如何重塑“倒下的大国形象”  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989098.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/捷克警方没收数十万口罩 中共侨领遭起底   >-007fff?logoWidth=1" title="捷克警方没收数十万口罩 中共侨领遭起底  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989569.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/热传网文：别给哥说顾全大局 哥早都戒了   >-007fff?logoWidth=1" title="热传网文：别给哥说顾全大局 哥早都戒了  "></a><br>
@@ -40,7 +40,6 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/27/n11981662.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大难前如何避祸 埃及十灾给启示       >-007fff?logoWidth=1" title="大难前如何避祸 埃及十灾给启示  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11986200.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情延烧 澳议员:和中共走得近的人最危险  >-007fff?logoWidth=1" title="疫情延烧 澳议员:和中共走得近的人最危险  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812291.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共外交部耿爽离奇预言给习近平成功挖坑   >-007fff?logoWidth=1" title="中共外交部耿爽离奇预言给习近平成功挖坑  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812212.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共援外抗疫爆丑闻 华春莹“比烂”回应   >-007fff?logoWidth=1" title="中共援外抗疫爆丑闻 华春莹“比烂”回应  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812244.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/一个更大的感染群体成中共高度机密      >-007fff?logoWidth=1" title="一个更大的感染群体成中共高度机密  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812218.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/昔日小粉红倒弋 实名公开促中共下台(视频) >-007fff?logoWidth=1" title="昔日小粉红倒弋 实名公开促中共下台(视频)  "></a><br>
@@ -53,6 +52,8 @@
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990414.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/国家级骇客趁疫情发动网攻 台湾韩国等受害  >-007fff?logoWidth=1" title="国家级骇客趁疫情发动网攻 台湾韩国等受害  "></a><br>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990595.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/受中共肺炎波及 大陆高考延至七月举行    >-007fff?logoWidth=1" title="受中共肺炎波及 大陆高考延至七月举行  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11988971.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/南京“610”对八九旬法轮功学员也不放过  >-007fff?logoWidth=1" title="南京“610”对八九旬法轮功学员也不放过  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990410.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共雷神山庆功 被指丧事当喜事办      >-007fff?logoWidth=1" title="中共雷神山庆功 被指丧事当喜事办  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990003.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆外贸1--2月进出口同比下降9.6    >-007fff?logoWidth=1" title="大陆外贸1-2月进出口同比下降9.6  "></a><br>
@@ -476,8 +477,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?s">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?f#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?c%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?x">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?r#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?d%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/bcccc">git.io/bcccc</a></div>
+<div align="center">短网址: <a href="https://git.io/acccc">git.io/acccc</a></div>
 
