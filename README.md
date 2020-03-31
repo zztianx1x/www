@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/usaite2855/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/usaite2855/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?i">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/999999">git.io/999999</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aa3">x.co/aa3</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?g">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/eqqqq">git.io/eqqqq</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aa3">x.co/aa3</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -35,8 +35,8 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989642.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/瘟疫大流行 美参议员：调查中共 让其赔偿  >-007fff?logoWidth=1" title="瘟疫大流行 美参议员：调查中共 让其赔偿  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989957.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/喊清算中共 英感染率放缓          >-007fff?logoWidth=1" title="喊清算中共 英感染率放缓  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990026.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/公开喊“共产党下课”山东青年张文斌失联   >-007fff?logoWidth=1" title="公开喊“共产党下课”山东青年张文斌失联  "></a><br>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11985864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/澳洲议员：我们永远不应该再相信中共     >-007fff?logoWidth=1" title="澳洲议员：我们永远不应该再相信中共  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11987054.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共散毒又甩锅 意记者火了：追讨战争赔偿  >-007fff?logoWidth=1" title="中共散毒又甩锅 意记者火了：追讨战争赔偿  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11987553.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/济南开往广州的火车出轨侧翻 至少百余死伤  >-007fff?logoWidth=1" title="济南开往广州的火车出轨侧翻 至少百余死伤  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812306.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中南海进退两难：习近平促复工 李克强发预警 >-007fff?logoWidth=1" title="中南海进退两难：习近平促复工 李克强发预警  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812246.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/纽约为何成美国重灾区？尴尬了：世卫高管不敢提>-007fff?logoWidth=1" title="纽约为何成美国重灾区？尴尬了：世卫高管不敢提台湾（上）  "></a><br>
@@ -476,8 +476,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?v">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?v#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?n%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?r">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?s#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?j%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/999999">git.io/999999</a></div>
+<div align="center">短网址: <a href="https://git.io/eqqqq">git.io/eqqqq</a></div>
 
