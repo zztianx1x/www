@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/hrzlx252/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/hrzlx252/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/hrzlx252/www/master/?q">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ffffffff">git.io/ffffffff</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aau">x.co/aau</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/hrzlx252/www/master/?k">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/e3333">git.io/e3333</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/kaa">x.co/kaa</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -52,11 +52,12 @@
 <a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
+<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991567.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/灾难中明真相 香港民众感谢法轮功      >-007fff?logoWidth=1" title="灾难中明真相 香港民众感谢法轮功  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992756.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共疫情数据为何不可信 专家解释      >-007fff?logoWidth=1" title="中共疫情数据为何不可信 专家解释  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992499.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/蓬佩奥：需抗击中共传播的疫情假消息     >-007fff?logoWidth=1" title="蓬佩奥：需抗击中共传播的疫情假消息  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992609.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉“裸官”蔡莉全家猛料被曝光       >-007fff?logoWidth=1" title="武汉“裸官”蔡莉全家猛料被曝光  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991941.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/吴明德：二次大萧条将发生在中国       >-007fff?logoWidth=1" title="吴明德：二次大萧条将发生在中国  "></a><br>
-<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11990552.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/洛杉矶侨团网卖口罩 华人疑当初捐华物资去向 >-007fff?logoWidth=1" title="洛杉矶侨团网卖口罩 华人疑当初捐华物资去向  "></a><br>
+<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11990552.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/洛杉矶侨团网卖口罩 华人质疑是当初捐华物资 >-007fff?logoWidth=1" title="洛杉矶侨团网卖口罩 华人质疑是当初捐华物资  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991894.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/学生全面到校上课 彭博社：全球或仅剩台湾  >-007fff?logoWidth=1" title="学生全面到校上课 彭博社：全球或仅剩台湾  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992733.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/没有信任的制度 很快崩溃          >-007fff?logoWidth=1" title="没有信任的制度 很快崩溃  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992386.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆恐2亿人工作不保 中共病毒致失业风暴  >-007fff?logoWidth=1" title="大陆恐2亿人工作不保 中共病毒致失业风暴  "></a><br>
@@ -77,10 +78,8 @@
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991495.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/安徽颍上发生命案 5人遇害包括3名未成年人 >-007fff?logoWidth=1" title="安徽颍上发生命案 5人遇害包括3名未成年人  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991216.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/社交疏离 英国男子乔装出屋 网友笑翻    >-007fff?logoWidth=1" title="社交疏离 英国男子乔装出屋 网友笑翻  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991196.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网文：中共病毒造成经济最困难时候还没到   >-007fff?logoWidth=1" title="网文：中共病毒造成经济最困难时候还没到  "></a><br>
-<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991205.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/河南一企业往河沟倾倒死鱼 臭气熏天     >-007fff?logoWidth=1" title="河南一企业往河沟倾倒死鱼 臭气熏天  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11988971.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/南京“610”对八九旬法轮功学员也不放过  >-007fff?logoWidth=1" title="南京“610”对八九旬法轮功学员也不放过  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11989695.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/起诉云南社保局 云大职工养老金被停发    >-007fff?logoWidth=1" title="起诉云南社保局 云大职工养老金被停发  "></a><br>
-<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11989484.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/墙内小哥实名公开促共产党下课        >-007fff?logoWidth=1" title="墙内小哥实名公开促共产党下课  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11988958.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/促社交距离 行业巨头纷纷推出创意LOGO  >-007fff?logoWidth=1" title="促社交距离 行业巨头纷纷推出创意LOGO  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/24/n11968542.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/参议员促川普 多管齐下回击中共疫情大外宣  >-007fff?logoWidth=1" title="参议员促川普 多管齐下回击中共疫情大外宣  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/23/n11966599.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/嗅觉味觉无端失灵 或已染中共病毒      >-007fff?logoWidth=1" title="嗅觉味觉无端失灵 或已染中共病毒  "></a><br>
@@ -469,8 +468,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/hrzlx252/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/hrzlx252/www/master/?u">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/hrzlx252/www/blob/master/README.md?c#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/hrzlx252/www/blob/master/README.md?r%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/hrzlx252/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/hrzlx252/www/master/?l">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/hrzlx252/www/blob/master/README.md?j#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/hrzlx252/www/blob/master/README.md?x%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/ffffffff">git.io/ffffffff</a></div>
+<div align="center">短网址: <a href="https://git.io/e3333">git.io/e3333</a></div>
 
