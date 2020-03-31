@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/asuof267/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/asuof267/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/asuof267/www/master/?m">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/2222222">git.io/2222222</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aa9">x.co/aa9</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/asuof267/www/master/?u">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/ezzzz">git.io/ezzzz</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/vdd">x.co/vdd</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -31,13 +31,8 @@
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811566.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/红二代难躲瘟疫 副司令染疫离世       >-007fff?logoWidth=1" title="红二代难躲瘟疫 副司令染疫离世  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811451.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/习近平巡视复工再遇尴尬 上海三大地标突然关闭>-007fff?logoWidth=1" title="习近平巡视复工再遇尴尬 上海三大地标突然关闭  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11987697.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/程晓容：中共产品危害世界 劣质口罩是缩影  >-007fff?logoWidth=1" title="程晓容：中共产品危害世界 劣质口罩是缩影  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11985864.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/澳洲议员：我们永远不应该再相信中共     >-007fff?logoWidth=1" title="澳洲议员：我们永远不应该再相信中共  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11987670.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖北“健康码”受质疑 咸宁男子在兰州确诊  >-007fff?logoWidth=1" title="湖北“健康码”受质疑 咸宁男子在兰州确诊  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11987553.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/济南开往广州的火车出轨侧翻 至少百余死伤  >-007fff?logoWidth=1" title="济南开往广州的火车出轨侧翻 至少百余死伤  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11987193.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共瞒疫情害全球 英政府大怒        >-007fff?logoWidth=1" title="中共瞒疫情害全球 英政府大怒  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/19/12/3/n11698317.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/极左分子如何将美国制度极端化？       >-007fff?logoWidth=1" title="极左分子如何将美国制度极端化？  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/27/n11981662.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大难前如何避祸 埃及十灾给启示       >-007fff?logoWidth=1" title="大难前如何避祸 埃及十灾给启示  "></a><br>
+<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11989098.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/捷克警方没收数十万口罩 中共侨领遭起底   >-007fff?logoWidth=1" title="捷克警方没收数十万口罩 中共侨领遭起底  "></a><br>
+<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11988950.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/习浙江推复工 北京4动作惹非议       >-007fff?logoWidth=1" title="习浙江推复工 北京4动作惹非议  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11985983.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉多地再增确诊病例 中共持续造假     >-007fff?logoWidth=1" title="武汉多地再增确诊病例 中共持续造假  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11985804.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/“我是证据”德国富商从中共地狱中幸存（上） >-007fff?logoWidth=1" title="“我是证据”德国富商从中共地狱中幸存（上）  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11985616.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/应对疫情 美国公司CEO纷纷放弃薪水    >-007fff?logoWidth=1" title="应对疫情 美国公司CEO纷纷放弃薪水  "></a><br>
@@ -45,7 +40,6 @@
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11986412.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/外国人隔离享受超国民待遇 引发中国人不满  >-007fff?logoWidth=1" title="外国人隔离享受超国民待遇 引发中国人不满  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11986123.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/英政府因中共隐瞒疫情要清算 或解约华为   >-007fff?logoWidth=1" title="英政府因中共隐瞒疫情要清算 或解约华为  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11986300.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/刚开张 上海景区、全国影院再度关闭     >-007fff?logoWidth=1" title="刚开张 上海景区、全国影院再度关闭  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/29/n11986146.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球首例双重感染者 冰岛现40种变异病毒  >-007fff?logoWidth=1" title="全球首例双重感染者 冰岛现40种变异病毒  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811396.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/获知以40倍瞒报疫情 英官员称将清算中共  >-007fff?logoWidth=1" title="获知以40倍瞒报疫情 英官员称将清算中共  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811805.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/3.30美国政府每日疫情发布会（中文同声翻译>-007fff?logoWidth=1" title="3.30美国政府每日疫情发布会（中文同声翻译）  "></a><br>
@@ -75,7 +69,6 @@
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11989188.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中国上市公司再中招 华阳光电染瘟疫 70人遭>-007fff?logoWidth=1" title="中国上市公司再中招 华阳光电染瘟疫 70人遭隔离  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11989310.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/《新闻拍案惊奇》新闻无奇不立 奇中自有道理 >-007fff?logoWidth=1" title="《新闻拍案惊奇》新闻无奇不立 奇中自有道理  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11988966.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/意大利学者：抵赖病毒来源 中共试图篡改历史 >-007fff?logoWidth=1" title="意大利学者：抵赖病毒来源 中共试图篡改历史  "></a><br>
-<a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11989098.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/捷克警方没收数十万口罩 中共侨领遭起底   >-007fff?logoWidth=1" title="捷克警方没收数十万口罩 中共侨领遭起底  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11989131.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/参议员科顿：中共在试图掩盖世界上最大谎言  >-007fff?logoWidth=1" title="参议员科顿：中共在试图掩盖世界上最大谎言  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11988555.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/病毒蔓延 律师：中共及谭德塞恐犯下反人类罪 >-007fff?logoWidth=1" title="病毒蔓延 律师：中共及谭德塞恐犯下反人类罪  "></a><br>
 <a href="https://github.com/asuof267/djy/blob/master/gb/20/3/30/n11988512.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/台学者：“中共肺炎”是最正确名称      >-007fff?logoWidth=1" title="台学者：“中共肺炎”是最正确名称  "></a><br>
@@ -480,8 +473,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/asuof267/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/asuof267/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/asuof267/www/master/?p">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/asuof267/www/blob/master/README.md?t#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/asuof267/www/blob/master/README.md?v%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/asuof267/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/asuof267/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/asuof267/www/master/?n">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/asuof267/www/blob/master/README.md?z#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/asuof267/www/blob/master/README.md?c%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/2222222">git.io/2222222</a></div>
+<div align="center">短网址: <a href="https://git.io/ezzzz">git.io/ezzzz</a></div>
 
