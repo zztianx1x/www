@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/hrzlx252/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/hrzlx252/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/hrzlx252/www/master/?e">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/b9999">git.io/b9999</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/aaq">x.co/aaq</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/hrzlx252/www/master/?n">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/dcccc">git.io/dcccc</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/qpp">x.co/qpp</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -52,8 +52,9 @@
 <a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
-<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992847.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球瘟疫爆发 为何必须追究中共的罪责？   >-007fff?logoWidth=1" title="全球瘟疫爆发 为何必须追究中共的罪责？  "></a><br>
+<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992741.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/为何数据准确对治理疫情至关重要 蓬佩奥作答 >-007fff?logoWidth=1" title="为何数据准确对治理疫情至关重要 蓬佩奥作答  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992727.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/港星李君妍家人确诊染疫 无线台艺员人心惶惶 >-007fff?logoWidth=1" title="港星李君妍家人确诊染疫 无线台艺员人心惶惶  "></a><br>
+<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992847.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/全球瘟疫爆发 为何必须追究中共的罪责？   >-007fff?logoWidth=1" title="全球瘟疫爆发 为何必须追究中共的罪责？  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992751.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/五角大楼：用国防生产法 减少对中国药品依赖 >-007fff?logoWidth=1" title="五角大楼：用国防生产法 减少对中国药品依赖  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11992719.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/抗疫外交遇退货潮 北京连遭问责       >-007fff?logoWidth=1" title="抗疫外交遇退货潮 北京连遭问责  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991567.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/灾难中明真相 香港民众感谢法轮功      >-007fff?logoWidth=1" title="灾难中明真相 香港民众感谢法轮功  "></a><br>
@@ -81,7 +82,6 @@
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11988971.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/南京“610”对八九旬法轮功学员也不放过  >-007fff?logoWidth=1" title="南京“610”对八九旬法轮功学员也不放过  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11989695.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/起诉云南社保局 云大职工养老金被停发    >-007fff?logoWidth=1" title="起诉云南社保局 云大职工养老金被停发  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991622.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/借意大利医院报导“纽约疫情” CBS公开道歉>-007fff?logoWidth=1" title="借意大利医院报导“纽约疫情” CBS公开道歉  "></a><br>
-<a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/31/n11991216.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/社交疏离 英国男子乔装出屋 网友笑翻    >-007fff?logoWidth=1" title="社交疏离 英国男子乔装出屋 网友笑翻  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/30/n11988958.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/促社交距离 行业巨头纷纷推出创意LOGO  >-007fff?logoWidth=1" title="促社交距离 行业巨头纷纷推出创意LOGO  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/24/n11968542.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/参议员促川普 多管齐下回击中共疫情大外宣  >-007fff?logoWidth=1" title="参议员促川普 多管齐下回击中共疫情大外宣  "></a><br>
 <a href="https://github.com/hrzlx252/djy/blob/master/gb/20/3/23/n11966599.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/嗅觉味觉无端失灵 或已染中共病毒      >-007fff?logoWidth=1" title="嗅觉味觉无端失灵 或已染中共病毒  "></a><br>
@@ -471,8 +471,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/hrzlx252/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/hrzlx252/www/master/?c">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/hrzlx252/www/blob/master/README.md?p#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/hrzlx252/www/blob/master/README.md?h%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/hrzlx252/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/hrzlx252/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/hrzlx252/www/master/?e">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/hrzlx252/www/blob/master/README.md?u#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/hrzlx252/www/blob/master/README.md?r%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/b9999">git.io/b9999</a></div>
+<div align="center">短网址: <a href="https://git.io/dcccc">git.io/dcccc</a></div>
 
