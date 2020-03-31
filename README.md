@@ -9,8 +9,8 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/asuof267/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/asuof267/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/asuof267/www/master/?b">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/a7777">git.io/a7777</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/2333">x.co/2333</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/asuof267/www/master/?x">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bjjjj">git.io/bjjjj</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/2555">x.co/2555</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
@@ -46,7 +46,6 @@
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811972.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/民间估算或2亿人失业 习近平急赴浙江促复工 >-007fff?logoWidth=1" title="民间估算或2亿人失业 习近平急赴浙江促复工  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811469.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/禁止外国人入境 赶回来的都是华裔 习近平再提>-007fff?logoWidth=1" title="禁止外国人入境 赶回来的都是华裔 习近平再提劳动教育  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811451.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/习近平巡视复工再遇尴尬 上海三大地标突然关闭>-007fff?logoWidth=1" title="习近平巡视复工再遇尴尬 上海三大地标突然关闭  "></a><br>
-<a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/30/a102811445.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/诡异！大批蝙蝠离奇暴毙 民忧“末日前兆”  >-007fff?logoWidth=1" title="诡异！大批蝙蝠离奇暴毙 民忧“末日前兆”  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
 <a href="https://github.com/asuof267/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
@@ -477,8 +476,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/asuof267/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/asuof267/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/asuof267/www/master/?k">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/asuof267/www/blob/master/README.md?y#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/asuof267/www/blob/master/README.md?h%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/asuof267/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/asuof267/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/asuof267/www/master/?s">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/asuof267/www/blob/master/README.md?e#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/asuof267/www/blob/master/README.md?c%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/a7777">git.io/a7777</a></div>
+<div align="center">短网址: <a href="https://git.io/bjjjj">git.io/bjjjj</a></div>
 
