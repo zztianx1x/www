@@ -9,27 +9,27 @@
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/usaite2855/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/usaite2855/www/master/t/www.jpg"></a><br>
-<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?e">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
-建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bbbbbbb">git.io/bbbbbbb</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/qaa">x.co/qaa</a><br>  
+<p><details><summary>个别情况打不开或没显示图片，刷新一下，或者用<a href="https://raw.githack.com/usaite2855/www/master/?i">高速平台</a>。持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....:pencil:</summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/fzzzz">git.io/fzzzz</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/p9p">x.co/p9p</a><br>  
 </details>
 <br>
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989480.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/捷克富豪感染中共病毒 跟叶简明来往密切   >-007fff?logoWidth=1" title="捷克富豪感染中共病毒 跟叶简明来往密切  "></a><br>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990595.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/受中共肺炎波及 大陆高考延至七月举行    >-007fff?logoWidth=1" title="受中共肺炎波及 大陆高考延至七月举行  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812305.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共肺炎疫情未退 非洲猪瘟再袭中国     >-007fff?logoWidth=1" title="中共肺炎疫情未退 非洲猪瘟再袭中国  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811396.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/获知以40倍瞒报疫情 英官员称将清算中共  >-007fff?logoWidth=1" title="获知以40倍瞒报疫情 英官员称将清算中共  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990338.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/分析：中国或面临粮食危机          >-007fff?logoWidth=1" title="分析：中国或面临粮食危机  "></a><br>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989077.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/河南等多地无症状感染者成传播者 民众恐慌  >-007fff?logoWidth=1" title="河南等多地无症状感染者成传播者 民众恐慌  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811476.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/用羟氯喹治愈699例 纽约一医生成功率100>-007fff?logoWidth=1" title="用羟氯喹治愈699例 纽约一医生成功率100  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812289.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/英国首相对中共出离愤怒 华为5G欧洲泡汤 当>-007fff?logoWidth=1" title="英国首相对中共出离愤怒 华为5G欧洲泡汤 当前危机将重塑全球秩序  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989077.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/河南等多地无症状感染者成传播者 民众恐慌  >-007fff?logoWidth=1" title="河南等多地无症状感染者成传播者 民众恐慌  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11986596.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/菲华商富豪染疫去世 华人恐慌 陆严防偷渡  >-007fff?logoWidth=1" title="菲华商富豪染疫去世 华人恐慌 陆严防偷渡  "></a><br>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989866.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉人：中共发禁哭费 让染疫死者家属沉默  >-007fff?logoWidth=1" title="武汉人：中共发禁哭费 让染疫死者家属沉默  "></a><br>
+<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989814.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/任志强失踪前近照爆光 传京城暗流涌动    >-007fff?logoWidth=1" title="任志强失踪前近照爆光 传京城暗流涌动  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811677.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/政治形势不妙？中共“抄作业”突然销声    >-007fff?logoWidth=1" title="政治形势不妙？中共“抄作业”突然销声  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812291.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共外交部耿爽离奇预言给习近平成功挖坑   >-007fff?logoWidth=1" title="中共外交部耿爽离奇预言给习近平成功挖坑  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989613.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/至清：2020年中国粮食面临天灾人祸    >-007fff?logoWidth=1" title="至清：2020年中国粮食面临天灾人祸  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11985921.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/“我是证据”德国富商从中共地狱中幸存（中） >-007fff?logoWidth=1" title="“我是证据”德国富商从中共地狱中幸存（中）  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812283.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从犹太人的黄标到中国人的黄码 歧视在大国的骄>-007fff?logoWidth=1" title="从犹太人的黄标到中国人的黄码 歧视在大国的骄狂中蔓延  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811504.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉人领骨灰爆出更惊人内幕         >-007fff?logoWidth=1" title="武汉人领骨灰爆出更惊人内幕  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11988425.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/持健康证仍确诊 民众没安全感        >-007fff?logoWidth=1" title="持健康证仍确诊 民众没安全感  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11986824.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆青年的心声：共产党下课         >-007fff?logoWidth=1" title="大陆青年的心声：共产党下课  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811997.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/追责中共！美国会众院高官:美中关系回不去了 >-007fff?logoWidth=1" title="追责中共！美国会众院高官:美中关系回不去了  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811849.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/保加利亚盲婆预言家 24年前预言中共病毒疫情>-007fff?logoWidth=1" title="保加利亚盲婆预言家 24年前预言中共病毒疫情  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989642.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/瘟疫大流行 美参议员：调查中共 让其赔偿  >-007fff?logoWidth=1" title="瘟疫大流行 美参议员：调查中共 让其赔偿  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989957.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/喊清算中共 英感染率放缓          >-007fff?logoWidth=1" title="喊清算中共 英感染率放缓  "></a><br>
@@ -40,20 +40,17 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/27/n11981662.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大难前如何避祸 埃及十灾给启示       >-007fff?logoWidth=1" title="大难前如何避祸 埃及十灾给启示  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/29/n11986200.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/疫情延烧 澳议员:和中共走得近的人最危险  >-007fff?logoWidth=1" title="疫情延烧 澳议员:和中共走得近的人最危险  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/11/n11931884.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/从小粉红到批评家 澳华人记者勇揭中共暴政  >-007fff?logoWidth=1" title="从小粉红到批评家 澳华人记者勇揭中共暴政  "></a><br>
+<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812274.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共病毒有多诡异？五大迷团至今难倒专家   >-007fff?logoWidth=1" title="中共病毒有多诡异？五大迷团至今难倒专家  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812212.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共援外抗疫爆丑闻 华春莹“比烂”回应   >-007fff?logoWidth=1" title="中共援外抗疫爆丑闻 华春莹“比烂”回应  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812244.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/一个更大的感染群体成中共高度机密      >-007fff?logoWidth=1" title="一个更大的感染群体成中共高度机密  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812218.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/昔日小粉红倒弋 实名公开促中共下台(视频) >-007fff?logoWidth=1" title="昔日小粉红倒弋 实名公开促中共下台(视频)  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/31/a102812179.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/湖南列车出轨致百余人死伤 搬运尸体画面曝光(>-007fff?logoWidth=1" title="湖南列车出轨致百余人死伤 搬运尸体画面曝光(视频)  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102812074.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/娱乐观光所“开了又关”第二波疫情开始了？英相>-007fff?logoWidth=1" title="娱乐观光所“开了又关”第二波疫情开始了？英相怒了 华为要遭殃  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811468.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/美新闻调查：中共如何利用推特进行宣传    >-007fff?logoWidth=1" title="美新闻调查：中共如何利用推特进行宣传  "></a><br>
-<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/30/a102811420.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/黄国才：中共全球渗透 香港白色恐布泛滥   >-007fff?logoWidth=1" title="黄国才：中共全球渗透 香港白色恐布泛滥  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/28/a102810842.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/网友:全世界政府都在给人民发钱,我们的伟大祖>-007fff?logoWidth=1" title="网友:全世界政府都在给人民发钱,我们的伟大祖国呢？  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/28/a102810346.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/马云柳传志民企大家上书 李瑞环温家宝五老上书>-007fff?logoWidth=1" title="马云柳传志民企大家上书 李瑞环温家宝五老上书 中共政权飘零  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/13/a102799022.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共刻意扭曲美国会听证问答 炒作病毒来自美国>-007fff?logoWidth=1" title="中共刻意扭曲美国会听证问答 炒作病毒来自美国  "></a><br>
 <a href="https://github.com/usaite2855/ntdtv/blob/master/gb/2020/03/28/a102810327.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆死亡数到底多少？第二轮疫情就要来了？  >-007fff?logoWidth=1" title="大陆死亡数到底多少？第二轮疫情就要来了？  "></a><br>
 <details><summary><p><img height="30" src="https://img.shields.io/badge/-%E6%9B%B4%E5%A4%9A...-orange"></img><img height="30" src="https://github.com/images/icons/emoji/unicode/23ec.png"></img></p></summary>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990414.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/国家级骇客趁疫情发动网攻 台湾韩国等受害  >-007fff?logoWidth=1" title="国家级骇客趁疫情发动网攻 台湾韩国等受害  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990595.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/受中共肺炎波及 大陆高考延至七月举行    >-007fff?logoWidth=1" title="受中共肺炎波及 大陆高考延至七月举行  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11988971.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/南京“610”对八九旬法轮功学员也不放过  >-007fff?logoWidth=1" title="南京“610”对八九旬法轮功学员也不放过  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990410.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中共雷神山庆功 被指丧事当喜事办      >-007fff?logoWidth=1" title="中共雷神山庆功 被指丧事当喜事办  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990003.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/大陆外贸1--2月进出口同比下降9.6    >-007fff?logoWidth=1" title="大陆外贸1-2月进出口同比下降9.6  "></a><br>
@@ -63,7 +60,6 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990160.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/中央公园的战地医院             >-007fff?logoWidth=1" title="中央公园的战地医院  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/31/n11990265.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/香港二线隔离病房料本周启用         >-007fff?logoWidth=1" title="香港二线隔离病房料本周启用  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989376.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/娱乐场所开了又关 中国真实疫情引猜测    >-007fff?logoWidth=1" title="娱乐场所开了又关 中国真实疫情引猜测  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989866.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/武汉人：中共发禁哭费 让染疫死者家属沉默  >-007fff?logoWidth=1" title="武汉人：中共发禁哭费 让染疫死者家属沉默  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989961.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/死在通山县政府门前 政府不理        >-007fff?logoWidth=1" title="死在通山县政府门前 政府不理  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989843.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/就病毒来源中共抛两对立言论 陈用林揭内情  >-007fff?logoWidth=1" title="就病毒来源中共抛两对立言论 陈用林揭内情  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989962.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/出门遛狗 小狗被警察“执法”        >-007fff?logoWidth=1" title="出门遛狗 小狗被警察“执法”  "></a><br>
@@ -71,7 +67,6 @@
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989695.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/起诉云南社保局 云大职工养老金被停发    >-007fff?logoWidth=1" title="起诉云南社保局 云大职工养老金被停发  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11988950.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/习浙江推复工 北京4动作惹非议       >-007fff?logoWidth=1" title="习浙江推复工 北京4动作惹非议  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989861.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/官掩疫情 进入不信任时代          >-007fff?logoWidth=1" title="官掩疫情 进入不信任时代  "></a><br>
-<a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989814.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/任志强失踪前近照爆光 传京城暗流涌动    >-007fff?logoWidth=1" title="任志强失踪前近照爆光 传京城暗流涌动  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989599.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/各国发钱救助民众 中共“抄作业”言论突消失 >-007fff?logoWidth=1" title="各国发钱救助民众 中共“抄作业”言论突消失  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989760.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/纽约中央公园建战地医院 31日投用     >-007fff?logoWidth=1" title="纽约中央公园建战地医院 31日投用  "></a><br>
 <a href="https://github.com/usaite2855/djy/blob/master/gb/20/3/30/n11989720.md#1" target=_blank><img width="330" src="https://img.shields.io/badge/新增病例“归零”谁信？ 中共解封令遭地方反对>-007fff?logoWidth=1" title="新增病例“归零”谁信？ 中共解封令遭地方反对  "></a><br>
@@ -478,8 +473,8 @@
 </strong></p>
 <div align="center">
 <hr>
-<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?n">高速版平台</a></strong></p>
-<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?b#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?s%231" title="分享本平台"></img>
+<p><strong><a href="https://github.com/usaite2855/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://github.com/usaite2855/ntdtv/blob/master/gb/contribute.md#1">新唐人电视投稿</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://raw.githack.com/usaite2855/www/master/?c">高速版平台</a></strong></p>
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/usaite2855/www/blob/master/README.md?d#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/usaite2855/www/blob/master/README.md?y%231" title="分享本平台"></img>
 </div>
-<div align="center">短网址: <a href="https://git.io/bbbbbbb">git.io/bbbbbbb</a></div>
+<div align="center">短网址: <a href="https://git.io/fzzzz">git.io/fzzzz</a></div>
 
